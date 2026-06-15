@@ -1,0 +1,54 @@
+{
+  "hubs": 17,
+  "pages": 275,
+  "ids": 244,
+  "markdown_files": 295,
+  "broken_links_count": 0,
+  "broken_links_sample": [],
+  "unresolved_relations_count": 8,
+  "unresolved_relations_sample": [
+    {
+      "source": "A.17 - Canonical “Characteristic” (A.CHR‑NORM)",
+      "relation": "related",
+      "target": "D.3"
+    },
+    {
+      "source": "A.17 - Canonical “Characteristic” (A.CHR‑NORM)",
+      "relation": "coordinates_with",
+      "target": "C.CHR-CAL"
+    },
+    {
+      "source": "A.17 - Canonical “Characteristic” (A.CHR‑NORM)",
+      "relation": "coordinates_with",
+      "target": "C.KD-CAL"
+    },
+    {
+      "source": "A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC‑KERNEL)",
+      "relation": "related",
+      "target": "C.MM"
+    },
+    {
+      "source": "A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC‑KERNEL)",
+      "relation": "related",
+      "target": "D.4"
+    },
+    {
+      "source": "C.11 - Decision Theory (Decsn-CAL)",
+      "relation": "builds_on",
+      "target": "C.9"
+    },
+    {
+      "source": "C.29 - Mathematical Lens Use",
+      "relation": "coordinates_with",
+      "target": "C.29-compatible"
+    },
+    {
+      "source": "E.17.1 - U.ViewpointBundleLibrary - Reusable Viewpoint Bundles",
+      "relation": "builds_on",
+      "target": "A.6.2-A.6.4"
+    }
+  ],
+  "source": "/Users/am/Documents/My_Repos/FPF/FPF-Spec.md",
+  "out_dir": "/Users/am/Documents/My_Repos/FPF/graph",
+  "generated_on": "2026-06-15"
+}
