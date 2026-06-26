@@ -10,6 +10,8 @@ FPF helps when a project has outgrown one clever conversation. It is useful when
 
 Use FPF as a reference model and pattern language, not as a linear textbook. Start from the working question you bring from your project. Bring in internal FPF terms only after they help you keep the work precise.
 
+The plain starting move is: name the project thing at stake. FPF often calls it a holon when the thing is being treated as a whole with parts: a machine, product, organization, method, body of knowledge, publication system, AI-agent arrangement, or local framework. Once the thing is named, FPF asks what structure, claim, decision, evidence, description, work, or improvement question is actually live.
+
 ## Decide Whether FPF Fits
 
 Use FPF when ordinary discussion is no longer enough to keep work coherent. Typical signs:
@@ -41,13 +43,17 @@ Stronger AI does not remove the need for FPF. AI can generate fluent options qui
 
 Core ideas in plain language:
 
+- first name the project thing under concern; when it is treated as a whole with parts, FPF calls it a holon;
 - local teams may use local meanings, but translation must be explicit when work crosses a boundary;
 - the thing itself, its description, a dashboard about it, a decision about it, and the work done to change it are not the same;
+- architecture is structure of that thing in a context, not the diagram, document, approval, or plan about it;
+- serious architecture work can move from problem pressure to candidate structures, selected structures, decisions, method and work, actual structures, and feedback;
 - keep several options alive until the comparison is clear enough to choose;
 - say what "better" means before optimizing or scoring;
 - make trust depend on evidence, freshness, scope, and intended use;
 - publish different views for different readers without changing the underlying claim;
-- use mathematics or formal models when they clarify what structure is preserved, what is lost, and what can be checked.
+- use mathematics or formal models when they clarify what structure is preserved, what is lost, and what can be checked;
+- build domain or local FPF-grounded frameworks as dependents of FPF Core, not as silent rewrites of the Core.
 
 ## First Practical Entries
 
@@ -57,13 +63,13 @@ The entries below are not a required sequence. They are common places where FPF 
 
 ### 1. Develop or review architecture
 
-Use this when you need to design, explain, review, or improve the architecture of a product, organization, technical system, document system, AI-agent setup, research program, or other thing with important internal structure.
+Use this when you need to design, explain, review, or improve the architecture of a product, organization, technical system, document system, AI-agent setup, research program, local practice, or other thing with important internal structure.
 
-FPF helps you ask what is being architected, which structures matter, what property of the architecture is being changed or judged, and which description, diagram, view, promise, decision, evidence, or implementation task is a different matter. It gives you language for selected structures, structural views, architecture characteristics, modularity, interfaces, scale, interlevel tensions, and architecture-changing moves.
+FPF helps you start from the thing being changed or described, not from the drawing. It asks which structures are unknown, candidate, selected, expected, or actual; which architecture characteristics are under pressure; which alternatives must remain alive; which decision is now binding; which method or work will realize the selected structures; and what operation, measurement, or feedback can reopen the architecture.
 
-Typical first result: a short architecture question note that says what is being architected, which structures matter, which architecture characteristic is at stake, what description or view is needed, and what decision or implementation work is still not settled by the architecture statement.
+Typical first result: a short P2S flow card or architecture question note that names the described holon, bounded context, problem pressure, unknown or selected structures, architecture characteristics, candidate or decision owner, work or feedback owner, and what real selected structure is still not settled by the current architecture statement.
 
-First inspect: `C.30`, `A.22`, `C.30.ASV`, `C.30.AD`, `C.31`, `A.6.M`, and the relevant architecture precision-restoration patterns when wording hides the kind of structure being discussed.
+First inspect: `C.32.P2S`, `C.30`, `A.22`, `C.32`, `C.32.PAD`, `C.32.ADR`, `C.33`, `C.34`, `C.35`, `C.30.ASV`, `C.30.AD`, `C.31`, `C.32.CONWAY`, and `B.2` or `B.2.P` when the work may reidentify the whole being discussed.
 
 ### 2. Write rules, methods, and work-process documents
 
@@ -185,6 +191,18 @@ Typical first result: a SoTA pack, option portfolio, candidate set, archive, or 
 
 First inspect: `G.0`, `G.1`, `G.2`, `G.5`, `G.10`, `G.11`, `C.18`, `C.19`, `A.19`, and `A.19.ECS`.
 
+### 14. Build a domain or local FPF-grounded framework
+
+Use this when a team needs its own FPF-grounded guide for a domain, organization, role context, or local practice, such as a hydroponic-cucumber framework, neural-network architecture framework, enterprise architecture-review framework, or Codex-process framework.
+
+FPF helps you keep the FPF Core, domain principle framework, local practice framework, source pack, selected pattern set, relation records, edition dependencies, publication units, quality loop, and refresh route from collapsing into one local monolith or one useful checklist. This is the normal adoption path when a group wants FPF for its own field without turning local policy into a Core rule.
+
+Typical first result: a family-and-structure map or principle-framework architecture decision that names the framework edition, bounded context, FPF Core dependency, selected first patterns, relation and publication carriers, source pack, quality route, and refresh route.
+
+In the first hour, write the context note, source-pack stub, first PFAD question, provisional name route, one to three pattern candidates, relation rows, first-entry carrier, quality route, and refresh trigger. Then open `E.4.DPF` for the full authoring spine.
+
+First inspect: `E.4`, `E.4.PFAD`, `E.4.DPF`, `E.4.PFR`, `G.2`, `E.8`, `E.11`, `E.17`, `F.18`, and `G.11`.
+
 ## One-Minute Example
 
 A platform team asks:
@@ -195,11 +213,13 @@ Without FPF, the conversation often mixes architecture, vendor comparison, safet
 
 With FPF, the first pass can become a small set of explicit project objects:
 
-- architecture question: what stack architecture is being changed or chosen;
+- holons in play: the product, the agent stack, and the team or toolchain that will change it are not the same thing;
+- architecture flow: what problem pressure should become which candidate, selected, expected, and actual structures;
 - comparison frame: which alternatives are in the candidate set;
 - evaluation characteristics: cost, latency, controllability, safety, maintainability, time to first use, and other project-specific characteristics;
 - evidence gaps: what must be tested before commitment;
-- current choice state: whether the team is choosing now, keeping a selected set, or doing more discovery;
+- current decision state: whether the team is choosing now, keeping a selected set, making a project architecture decision, or doing more discovery;
+- work and feedback: what method, readiness, and performed-work records must later show that the selected structures were actually realized;
 - reader reliance: what engineering, management, and assurance readers may responsibly rely on.
 
 That same shape can be used for a factory modernization, laboratory protocol, construction design change, supply-chain decision, safety case, or research program. The point is not the AI topic; the point is one body of reasoning that can be reviewed, improved, and published without changing meaning on the way.
@@ -216,6 +236,8 @@ It helps teams:
 - compare options without collapsing too early to one favorite;
 - define quality criteria before improvement starts;
 - keep evidence, assurance, decisions, and implementation work visible as different questions;
+- carry architecture work from problem pressure to real structures and feedback instead of stopping at diagrams or decision prose;
+- grow domain or local frameworks from FPF Core without silently changing Core meaning;
 - repair confusing wording by first asking what the wording is doing in the project, not by swapping synonyms;
 - leave each pass with one useful next result: a clearer question, a better name, a comparison note, an evidence gap, a safer document, or a reason to inspect a specific pattern.
 
@@ -253,7 +275,8 @@ architecture, rules and methods, API or interface wording, permission or complia
 problem shaping, quality improvement, evidence and assurance,
 temporal claims, causal or model-output use, publication or view use,
 naming, technical-text precision, mathematical modeling,
-or current options and state of the art.
+current options and state of the art,
+or a domain/local FPF-grounded framework.
 For the selected entry, give:
 1. the main project thing or claim at stake,
 2. the first useful written result,
