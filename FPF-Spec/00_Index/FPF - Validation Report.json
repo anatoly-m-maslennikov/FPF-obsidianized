@@ -1,0 +1,54 @@
+{
+  "hubs": 17,
+  "pages": 275,
+  "ids": 244,
+  "markdown_files": 295,
+  "broken_links_count": 0,
+  "broken_links_sample": [],
+  "unresolved_relations_count": 8,
+  "unresolved_relations_sample": [
+    {
+      "source": "A_Kernel Architecture Cluster/17_Canonical “Characteristic” (A.CHR-NORM)/00_A.17 - Canonical “Characteristic” (A.CHR-NORM)",
+      "relation": "related",
+      "target": "D.3"
+    },
+    {
+      "source": "A_Kernel Architecture Cluster/17_Canonical “Characteristic” (A.CHR-NORM)/00_A.17 - Canonical “Characteristic” (A.CHR-NORM)",
+      "relation": "coordinates_with",
+      "target": "C.CHR-CAL"
+    },
+    {
+      "source": "A_Kernel Architecture Cluster/17_Canonical “Characteristic” (A.CHR-NORM)/00_A.17 - Canonical “Characteristic” (A.CHR-NORM)",
+      "relation": "coordinates_with",
+      "target": "C.KD-CAL"
+    },
+    {
+      "source": "A_Kernel Architecture Cluster/18_Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)/00_A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)",
+      "relation": "related",
+      "target": "C.MM"
+    },
+    {
+      "source": "A_Kernel Architecture Cluster/18_Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)/00_A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)",
+      "relation": "related",
+      "target": "D.4"
+    },
+    {
+      "source": "C_Kernel Extension Specifications/02_11_Decision Theory (Decsn-CAL)/00_C.11 - Decision Theory (Decsn-CAL)",
+      "relation": "builds_on",
+      "target": "C.9"
+    },
+    {
+      "source": "C_Kernel Extension Specifications/17_29_Mathematical Lens Use/00_C.29 - Mathematical Lens Use",
+      "relation": "coordinates_with",
+      "target": "C.29-compatible"
+    },
+    {
+      "source": "E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/01_E.17.01 - U.ViewpointBundleLibrary - Reusable Viewpoint Bundles",
+      "relation": "builds_on",
+      "target": "A.6.2-A.6.4"
+    }
+  ],
+  "source": "/Users/am/Documents/My_Repos/FPF/FPF-Spec.md.breaks.my.obsidian.bak",
+  "out_dir": "/Users/am/Documents/My_Repos/FPF/FPF-Spec",
+  "generated_on": "2026-06-15"
+}
