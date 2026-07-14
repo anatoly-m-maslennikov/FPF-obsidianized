@@ -7,64 +7,64 @@ mode: "index-generated"
 title: "Part A - Kernel Architecture Cluster"
 source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 1069
-  - 7911
+  - 1126
+  - 8242
 status: "generated"
-generated_on: "2026-06-15"
+generated_on: "2026-07-14"
 generated: true
 ---
 
 
 # Part A - Kernel Architecture Cluster
 
-Source lines: `1069-7911` in `FPF-Spec.md.breaks.my.obsidian.bak`.
+Source lines: `1126-8242` in `FPF-Spec.md.breaks.my.obsidian.bak`.
 
 ## Pages
 
-- [[00_A.0 - Onboarding Glossary (NQD & E-E-LOG)|A.0]] — Onboarding Glossary (NQD & E/E‑LOG)
-- [[00_A.01 - U.Holon, U.System, and U.Episteme|A.1]] — U.Holon, U.System, and U.Episteme
-- [[01_A.01.01 - U.BoundedContext Semantic Frame|A.1.1]] — U.BoundedContext Semantic Frame
-- [[00_A.02 - Role Taxonomy|A.2]] — Role Taxonomy
-- [[01_A.02.01 - U.RoleAssignment- Contextual Role Assignment|A.2.1]] — U.RoleAssignment: Contextual Role Assignment
-- [[02_A.02.02 - U.Capability|A.2.2]] — U.Capability
-- [[03_A.02.03 - U.PromiseContent (Promise Content)|A.2.3]] — `U.PromiseContent` (Promise Content)
-- [[04_A.02.04 - U.EvidenceRole|A.2.4]] — `U.EvidenceRole`
-- [[05_A.02.05 - U.RoleStateGraph- The Named State Space of a Role|A.2.5]] — U.RoleStateGraph: The Named State Space of a Role
-- [[06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes|A.2.6]] — Unified Scope Mechanism (USM): Context Slices & Scopes
-- [[07_A.02.07 - U.RoleAlgebra- In-Context Role Relations|A.2.7]] — U.RoleAlgebra: In‑Context Role Relations
-- [[08_A.02.08 - U.Commitment (Deontic Commitment Object)|A.2.8]] — `U.Commitment` (Deontic Commitment Object)
-- [[09_A.02.09 - U.SpeechAct (Communicative Work Object)|A.2.9]] — `U.SpeechAct` (Communicative Work Object)
-- [[00_A.03 - Transformer Constitution (Quartet)|A.3]] — Transformer Constitution (Quartet)
-- [[01_A.03.01 - U.Method- Context-Defined Way of Doing|A.3.1]] — U.Method: Context-Defined Way of Doing
-- [[02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing|A.3.2]] — U.MethodDescription: Description Episteme for a Way of Doing
-- [[03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme|A.3.3]] — U.Dynamics: State-Space and Transition-Law Episteme
-- [[00_A.03.04 - U.Transformation- Bounded Change Under Conditions|A.3.4]] — U.Transformation: Bounded Change Under Conditions
-- [[01_A.03.04.P - Transformation Ontic Precision Restoration|A.3.4.P]] — Transformation Ontic Precision Restoration
-- [[00_A.04 - Temporal Duality & Open-Ended Evolution Principle|A.4]] — Temporal Duality & Open‑Ended Evolution Principle
-- [[00_A.05 - Open-Ended Kernel & Extension Layering|A.5]] — Open‑Ended Kernel & Extension Layering
+- [[A_Kernel Architecture Cluster/00_Onboarding Glossary (NQD & E-E-LOG)/00_A.0 - Onboarding Glossary (NQD & E-E-LOG)|A.0]] — Onboarding Glossary (NQD & E/E‑LOG)
+- [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/00_A.01 - Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)|A.1]] — Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)
+- [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/01_A.01.01 - U.BoundedContext Semantic Frame|A.1.1]] — U.BoundedContext Semantic Frame
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/00_A.02 - Role Taxonomy|A.2]] — Role Taxonomy
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/01_A.02.01 - U.RoleAssignment - Contextual Work-Role Assignment|A.2.1]] — U.RoleAssignment - Contextual Work-Role Assignment
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/02_A.02.02 - U.Capability - System Ability Envelope and Measures|A.2.2]] — U.Capability - System Ability Envelope and Measures
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/03_A.02.03 - U.PromiseContent (Promise Content)|A.2.3]] — `U.PromiseContent` (Promise Content)
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/04_A.02.04 - Episteme Evidence-Use and Status-Use Relations|A.2.4]] — Episteme Evidence-Use and Status-Use Relations
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/05_A.02.05 - RoleStateRelation@BoundedContext - Role State Space and Enactable-State Admission|A.2.5]] — RoleStateRelation@BoundedContext - Role State Space and Enactable-State Admission
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes|A.2.6]] — Unified Scope Mechanism (USM): Context Slices & Scopes
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/07_A.02.07 - RoleRelationStructure@BoundedContext - Context-Local Role Relations and Representation-Lens Boundary|A.2.7]] — RoleRelationStructure@BoundedContext - Context-Local Role Relations and Representation-Lens Boundary
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/08_A.02.08 - U.Commitment (Deontic Commitment Object)|A.2.8]] — `U.Commitment` (Deontic Commitment Object)
+- [[A_Kernel Architecture Cluster/02_Role Taxonomy/09_A.02.09 - U.SpeechAct (Communicative Work Object)|A.2.9]] — `U.SpeechAct` (Communicative Work Object)
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/00_A.03 - Transformer Constitution (Quartet)|A.3]] — Transformer Constitution (Quartet)
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/01_A.03.01 - U.Method- Context-Defined Way of Doing|A.3.1]] — U.Method: Context-Defined Way of Doing
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing|A.3.2]] — U.MethodDescription: Description Episteme for a Way of Doing
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme|A.3.3]] — U.Dynamics: State-Space and Transition-Law Episteme
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/00_A.03.04 - U.Transformation- Bounded Change Under Conditions|A.3.4]] — U.Transformation: Bounded Change Under Conditions
+- [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/01_A.03.04.P - Transformation Ontic Precision Restoration|A.3.4.P]] — Transformation Ontic Precision Restoration
+- [[A_Kernel Architecture Cluster/04_Temporal Duality & Open-Ended Evolution Principle/00_A.04 - Temporal Duality & Open-Ended Evolution Principle|A.4]] — Temporal Duality & Open‑Ended Evolution Principle
+- [[A_Kernel Architecture Cluster/05_Open-Ended Kernel & Extension Layering/00_A.05 - Open-Ended Kernel & Extension Layering|A.5]] — Open‑Ended Kernel & Extension Layering
 
 ## Table
 
 | ID | Page | Type | Lines |
 |---|---|---|---|
-| A.0 | [[00_A.0 - Onboarding Glossary (NQD & E-E-LOG)]] | fpf-pattern | 1071-1318 |
-| A.1 | [[00_A.01 - U.Holon, U.System, and U.Episteme]] | fpf-pattern | 1319-1599 |
-| A.1.1 | [[01_A.01.01 - U.BoundedContext Semantic Frame]] | fpf-pattern | 1600-1876 |
-| A.2 | [[00_A.02 - Role Taxonomy]] | fpf-pattern | 1877-2085 |
-| A.2.1 | [[01_A.02.01 - U.RoleAssignment- Contextual Role Assignment]] | fpf-pattern | 2086-2646 |
-| A.2.2 | [[02_A.02.02 - U.Capability]] | fpf-pattern | 2647-2895 |
-| A.2.3 | [[03_A.02.03 - U.PromiseContent (Promise Content)]] | fpf-pattern | 2896-3317 |
-| A.2.4 | [[04_A.02.04 - U.EvidenceRole]] | fpf-pattern | 3318-3736 |
-| A.2.5 | [[05_A.02.05 - U.RoleStateGraph- The Named State Space of a Role]] | fpf-pattern | 3737-4328 |
-| A.2.6 | [[06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes]] | fpf-pattern | 4329-5193 |
-| A.2.7 | [[07_A.02.07 - U.RoleAlgebra- In-Context Role Relations]] | fpf-pattern | 5194-5266 |
-| A.2.8 | [[08_A.02.08 - U.Commitment (Deontic Commitment Object)]] | fpf-pattern | 5267-5584 |
-| A.2.9 | [[09_A.02.09 - U.SpeechAct (Communicative Work Object)]] | fpf-pattern | 5585-5876 |
-| A.3 | [[00_A.03 - Transformer Constitution (Quartet)]] | fpf-pattern | 5877-6086 |
-| A.3.1 | [[01_A.03.01 - U.Method- Context-Defined Way of Doing]] | fpf-pattern | 6087-6430 |
-| A.3.2 | [[02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing]] | fpf-pattern | 6431-6721 |
-| A.3.3 | [[03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme]] | fpf-pattern | 6722-7027 |
-| A.3.4 | [[00_A.03.04 - U.Transformation- Bounded Change Under Conditions]] | fpf-pattern | 7028-7492 |
-| A.3.4.P | [[01_A.03.04.P - Transformation Ontic Precision Restoration]] | fpf-pattern | 7493-7735 |
-| A.4 | [[00_A.04 - Temporal Duality & Open-Ended Evolution Principle]] | fpf-pattern | 7736-7862 |
-| A.5 | [[00_A.05 - Open-Ended Kernel & Extension Layering]] | fpf-pattern | 7863-7911 |
+| A.0 | [[A_Kernel Architecture Cluster/00_Onboarding Glossary (NQD & E-E-LOG)/00_A.0 - Onboarding Glossary (NQD & E-E-LOG)]] | fpf-pattern | 1128-1375 |
+| A.1 | [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/00_A.01 - Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)]] | fpf-pattern | 1376-1731 |
+| A.1.1 | [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/01_A.01.01 - U.BoundedContext Semantic Frame]] | fpf-pattern | 1732-2012 |
+| A.2 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/00_A.02 - Role Taxonomy]] | fpf-pattern | 2013-2349 |
+| A.2.1 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/01_A.02.01 - U.RoleAssignment - Contextual Work-Role Assignment]] | fpf-pattern | 2350-2707 |
+| A.2.2 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/02_A.02.02 - U.Capability - System Ability Envelope and Measures]] | fpf-pattern | 2708-3059 |
+| A.2.3 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/03_A.02.03 - U.PromiseContent (Promise Content)]] | fpf-pattern | 3060-3533 |
+| A.2.4 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/04_A.02.04 - Episteme Evidence-Use and Status-Use Relations]] | fpf-pattern | 3534-3850 |
+| A.2.5 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/05_A.02.05 - RoleStateRelation@BoundedContext - Role State Space and Enactable-State Admission]] | fpf-pattern | 3851-4184 |
+| A.2.6 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes]] | fpf-pattern | 4185-5073 |
+| A.2.7 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/07_A.02.07 - RoleRelationStructure@BoundedContext - Context-Local Role Relations and Representation-Lens Boundary]] | fpf-pattern | 5074-5445 |
+| A.2.8 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/08_A.02.08 - U.Commitment (Deontic Commitment Object)]] | fpf-pattern | 5446-5788 |
+| A.2.9 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/09_A.02.09 - U.SpeechAct (Communicative Work Object)]] | fpf-pattern | 5789-6107 |
+| A.3 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/00_A.03 - Transformer Constitution (Quartet)]] | fpf-pattern | 6108-6317 |
+| A.3.1 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/01_A.03.01 - U.Method- Context-Defined Way of Doing]] | fpf-pattern | 6318-6734 |
+| A.3.2 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing]] | fpf-pattern | 6735-7041 |
+| A.3.3 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme]] | fpf-pattern | 7042-7349 |
+| A.3.4 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/00_A.03.04 - U.Transformation- Bounded Change Under Conditions]] | fpf-pattern | 7350-7820 |
+| A.3.4.P | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/01_A.03.04.P - Transformation Ontic Precision Restoration]] | fpf-pattern | 7821-8065 |
+| A.4 | [[A_Kernel Architecture Cluster/04_Temporal Duality & Open-Ended Evolution Principle/00_A.04 - Temporal Duality & Open-Ended Evolution Principle]] | fpf-pattern | 8066-8193 |
+| A.5 | [[A_Kernel Architecture Cluster/05_Open-Ended Kernel & Extension Layering/00_A.05 - Open-Ended Kernel & Extension Layering]] | fpf-pattern | 8194-8242 |

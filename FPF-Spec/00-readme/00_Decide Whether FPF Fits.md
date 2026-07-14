@@ -1,26 +1,26 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: Decide Whether FPF Fits
-part: "[[FPF - First Principles Framework (FPF) Readme]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "Decide Whether FPF Fits"
+part: "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
 parents:
-  - "[[FPF - First Principles Framework (FPF) Readme]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 415
-  - 453
-status: generated
-generated_on: 2026-06-15
+  - 399
+  - 445
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
 
 Use FPF when ordinary discussion is no longer enough to keep work coherent. Typical signs:
 
-- several teams, experts, tools, or AI agents must reason about the same work;
+- several teams, experts, tools, or AI agents share reasoning about the same work;
 - the real-world test is slow, expensive, noisy, risky, or politically hard to repeat;
 - different readers need different reports, dashboards, explanations, or decisions about the same underlying work;
 - names, roles, responsibilities, options, evidence, or quality criteria are starting to blur;
@@ -32,10 +32,10 @@ FPF is probably too heavy when the task is small, feedback is fast and cheap, th
 FPF is mainly useful for people who have to keep difficult work understandable across boundaries:
 
 - engineers and systems engineers working with complex products or operations;
-- researchers building claims that others must inspect or reuse;
+- researchers building claims for inspection or reuse by others;
 - platform and AI teams coordinating humans, models, tools, and approvals;
 - safety, assurance, compliance, and regulatory leads who need visible evidence and responsibility boundaries;
-- managers and product leaders who must compare options, budgets, risks, and delivery promises without hiding trade-offs.
+- managers and product leaders comparing options, budgets, risks, and delivery promises without hiding trade-offs.
 
 There are three common ways to use FPF:
 
@@ -47,10 +47,18 @@ Stronger AI does not remove the need for FPF. AI can generate fluent options qui
 
 Core ideas in plain language:
 
-- local teams may use local meanings, but translation must be explicit when work crosses a boundary;
-- the thing itself, its description, a dashboard about it, a decision about it, and the work done to change it are not the same;
+- first name the project object under concern; when it is treated as a whole with parts, FPF calls it a holon;
+- local teams may use local meanings; boundary-crossing work makes the translation relation explicit;
+- the project object itself, its description, a dashboard about it, a decision about it, and the work done to change it are not the same;
+- architecture is structure of that holon or project object in a context, not the diagram, document, approval, or plan about it;
+- serious architecture work can move from problem pressure to candidate structures, selected structures, decisions, method and work, actual structures, and feedback;
+- when the current question is which reusable way of doing changes, produces, derives, selects, controls, or preserves the project object under stated conditions, inspect `A.3.1 U.Method`; a strategy name, procedure text, program, plan, dated run, mechanism, or evidence record does not answer that method question by its label or form;
+- when an accepted `ProblemCard@Context` claim must remain usable while the project selects a method, prepares or performs work, interprets a result, branches, stops, or returns after a changed assumption, inspect `E.18.1 P2W Problem-to-Work Carry-Through`; it carries that claim into one next value or relation governed by its direct pattern rather than prescribing one universal workflow;
+- when a route-like explanation has several candidate positions and proposed relations or constraints that may change which continuations remain admissible, use it as a `ProvisionalUnfoldingDemonstrationDescription@Context` while any [[A_Kernel Architecture Cluster/22_Structure and Structural Views (STRUCT-CAL)/01_A.22.CGUS - Constraint-Governed Unfolding Structure|A.22.CGUS]] admission coordinate remains unresolved; after the wider CGUS is admitted, a separate `DemonstrativeUnfoldingSlice@Context` may present one traversal, and when admitted positions organize bounded transformations inspect the [[E_The FPF Constitution and Authoring Guides/17_18_Transformation Flow Structure/03_E.18.03 - Constraint-Governed Transformation-Flow Unfolding Structure|E.18.3]] specialization;
 - keep several options alive until the comparison is clear enough to choose;
 - say what "better" means before optimizing or scoring;
 - make trust depend on evidence, freshness, scope, and intended use;
 - publish different views for different readers without changing the underlying claim;
-- use mathematics or formal models when they clarify what structure is preserved, what is lost, and what can be checked.
+- when explanation, reader-facing ordering, or narrative rendering of selected source structure is current, state what structure is preserved, deliberately coarsened, abstracted, omitted, or lost, and which named source basis or governing pattern receives the return when loss matters;
+- use mathematics or formal models when they clarify what structure is preserved, what is lost, and what can be checked;
+- build domain or local FPF-grounded frameworks as dependents of FPF Core, not as silent rewrites of the Core.

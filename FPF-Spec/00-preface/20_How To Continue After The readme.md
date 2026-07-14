@@ -1,19 +1,19 @@
 ---
-type: fpf-readme-section
+type: "fpf-readme-section"
 context:
-  - FPF
-page_type: fpf-readme-section
-mode: canonical-generated
-title: How To Continue After The readme
-part: "[[FPF - Preface (non-normative)]]"
+  - "FPF"
+page_type: "fpf-readme-section"
+mode: "canonical-generated"
+title: "How To Continue After The readme"
+part: "[[00_Hubs/FPF - Preface (non-normative)]]"
 parents:
-  - "[[FPF - Preface (non-normative)]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - Preface (non-normative)]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 1061
-  - 1068
-status: generated
-generated_on: 2026-06-15
+  - 1118
+  - 1125
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
@@ -22,4 +22,4 @@ Start with the `readme` when you are deciding whether FPF can help a working pro
 
 Do not read the specification linearly unless that is your study goal. In project use, the first useful FPF pattern family is selected by the working question.
 
-The main practical habit is this: when a project sentence starts to matter, ask what kind of thing it is talking about, what claim it is making, what can responsibly be done with that claim, and which pattern can keep the next move honest. That habit is small. The architecture behind it is the rest of FPF.
+The main practical habit is this: when a project sentence starts to matter, ask what kind of entity, relation, governed record, or claim it is talking about, what claim it is making, what can responsibly be done with that claim, and which pattern can keep the next use or action honest. That habit is small. The architecture behind it is the rest of FPF.

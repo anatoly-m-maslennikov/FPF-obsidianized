@@ -1,24 +1,24 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: Purpose, Scope, And Non-Goals
-part: "[[FPF - Preface (non-normative)]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "Purpose, Scope, And Non-Goals"
+part: "[[00_Hubs/FPF - Preface (non-normative)]]"
 parents:
-  - "[[FPF - Preface (non-normative)]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - Preface (non-normative)]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 1042
-  - 1060
-status: generated
-generated_on: 2026-06-15
+  - 1099
+  - 1117
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
 
-FPF's purpose is to help people and AI agents produce reasoning that survives use: reasoning that can be aligned, reviewed, improved, published, delegated, refreshed, and reopened without losing the thing it was about.
+FPF's purpose is to help people and AI agents produce reasoning that survives use: reasoning that can be aligned, reviewed, improved, published, delegated, refreshed, and reopened without losing the EntityOfConcern it was about.
 
 The Core Specification defines conceptual patterns, distinctions, publication forms, and checks. It is tool-agnostic. It does not prescribe a software stack, file format, repository layout, meeting style, workflow engine, or organizational method. Those may be useful in a project, but they are not the conceptual core.
 

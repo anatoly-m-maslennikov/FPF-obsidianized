@@ -1,19 +1,19 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: Boundary Statements
-part: "[[FPF - Preface (non-normative)]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "Boundary Statements"
+part: "[[00_Hubs/FPF - Preface (non-normative)]]"
 parents:
-  - "[[FPF - Preface (non-normative)]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - Preface (non-normative)]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 933
-  - 951
-status: generated
-generated_on: 2026-06-15
+  - 990
+  - 1008
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
@@ -33,4 +33,4 @@ The danger is that one sentence may try to do several jobs at once:
 
 If those jobs remain bundled, the sentence becomes hard to check. Later disagreement is then resolved by authority or politics rather than by the pattern that governs the claim.
 
-FPF's boundary discipline, especially around the [[00_A.06 - Signature Stack & Boundary Discipline|A.6]] family, repairs such cases by separating claim kinds. A contract line, interface statement, API schema, compliance note, or safety-case sentence can be unpacked into definition, admissibility, commitment, evidence, work effect, publication, and decision components as needed. The point is not to force every document into a heavy form. The point is to keep boundary language from changing system behavior without an inspectable claim.
+FPF's boundary discipline, especially around the [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/00_A.06 - Signature Stack & Boundary Discipline|A.6]] family, repairs such cases by separating claim kinds. A contract line, interface statement, API schema, compliance note, or safety-case sentence can be unpacked into definition, admissibility, commitment, evidence, work effect, publication, and decision components as needed. The point is not to force every document into a heavy form. The point is to keep boundary language from changing system behavior without an inspectable claim.

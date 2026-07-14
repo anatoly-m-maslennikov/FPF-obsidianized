@@ -1,26 +1,26 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: How to Use This Repository
-part: "[[FPF - First Principles Framework (FPF) Readme]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "How to Use This Repository"
+part: "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
 parents:
-  - "[[FPF - First Principles Framework (FPF) Readme]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 637
-  - 665
-status: generated
-generated_on: 2026-06-15
+  - 672
+  - 705
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
 
-Start with the first practical entry that matches your project question. Then inspect the named pattern family and apply its Problem frame, Solution, examples, and checklist.
+Start with the practical-use card that recognizes the current project question. If several fit, compare their situations, first-result differences, and stop or return conditions before inspecting the selected direct pattern.
 
-Use the `Preface` for the cross-cutting ideas behind the pattern language. Use the Table of Content when you already know the pattern family or need a search-oriented overview. Use extended cases only when the compact first entry is not enough.
+Use the `Preface` for the cross-cutting ideas and the repeated-use explanation. Use the Table of Contents when you already know the pattern family or need a search-oriented overview. Use the direct pattern body for the governed Solution. Once one direct pattern is current, use [[E_The FPF Constitution and Authoring Guides/10_11_Practical-Use Guidance and Pattern Discovery/01_E.11.PUA - Pattern Use in a Working Situation and First Useful Result|E.11.PUA]] to apply its Solution to the first exact result and its receiving use. Use [[E_The FPF Constitution and Authoring Guides/10_11_Practical-Use Guidance and Pattern Discovery/02_E.11.PUR - Pattern-Use Applicability, Recommendation, and Coordination|E.11.PUR]] only when a named receiving use needs an addressable applicability finding, recommendation, coordination, or ordering relation. Use extended cases when the compact card and direct pattern are not enough.
 
 If you use an AI assistant, attach or index `FPF-Spec.md` and ask for plain-language project help first. Let internal pattern names enter the conversation only when they make the reasoning more precise.
 
@@ -28,19 +28,24 @@ A good first prompt is:
 
 ```text
 You have the FPF specification as a file.
-Help me structure this project:
-[short project description]
+Help me with this current project question:
+[short project description and question]
 
 Use plain language for engineer-managers.
-Propose the first useful FPF entry:
-architecture, rules and methods, API or interface wording, permission or compliance wording, comparison and choice,
-problem shaping, quality improvement, evidence and assurance,
-temporal claims, causal or model-output use, publication or view use,
-naming, technical-text precision, mathematical modeling,
-or current options and state of the art.
-For the selected entry, give:
-1. the main project thing or claim at stake,
-2. the first useful written result,
-3. the first FPF patterns to inspect,
-4. what still cannot be decided, trusted, or used responsibly.
+Compare the relevant semantic practical-use cards when several fit:
+ARCHITECTURE, WORKING-DOCUMENTS, OPTION-COMPARISON,
+PROBLEM-SHAPING, IMPROVEMENT, COSTLY-ACTION, TIME,
+CAUSAL-USE, DESCRIPTION-USE, NAMING, WORDING,
+MATHEMATICAL-MODELING, SOTA-PORTFOLIO, DPF-AUTHORING,
+or SYSTEM-IN-CONTEXT.
+
+Then inspect the selected direct pattern and give:
+- the current EntityOfConcern and practical question;
+- the pattern and Solution selected under the current condition;
+- the exact kind of first useful result;
+- what that result lets us do next;
+- where to stop or return when a stronger claim becomes current.
+
+Keep comparison conversational unless a named receiving use relies on an addressable record.
+Do not turn the card into a whole-project plan.
 ```

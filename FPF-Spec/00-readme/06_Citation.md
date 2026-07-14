@@ -1,19 +1,19 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: Citation
-part: "[[FPF - First Principles Framework (FPF) Readme]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "Citation"
+part: "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
 parents:
-  - "[[FPF - First Principles Framework (FPF) Readme]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - First Principles Framework (FPF) Readme]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 666
-  - 674
-status: generated
-generated_on: 2026-06-15
+  - 706
+  - 714
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 

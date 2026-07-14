@@ -1,19 +1,19 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: The Culinary Architecture Of Collective Thought
-part: "[[FPF - Preface (non-normative)]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "The Culinary Architecture Of Collective Thought"
+part: "[[00_Hubs/FPF - Preface (non-normative)]]"
 parents:
-  - "[[FPF - Preface (non-normative)]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - Preface (non-normative)]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 998
-  - 1023
-status: generated
-generated_on: 2026-06-15
+  - 1055
+  - 1080
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
@@ -38,6 +38,6 @@ In FPF terms:
 - state-of-the-art and option portfolios keep search open before selection;
 - improvement loops let the whole arrangement get better over time.
 
-For a small well-known problem solved by one expert, FPF may feel heavier than intuition. Its advantage appears when reasoning must be collective, long-lived, high-stakes, cross-domain, AI-assisted, or open-ended. That is where tacit expertise alone becomes hard to audit, transfer, or refresh.
+For a small well-known problem solved by one expert, FPF may feel heavier than intuition. Its advantage appears when reasoning is collective, long-lived, high-stakes, cross-domain, AI-assisted, or open-ended. That is where tacit expertise alone becomes hard to audit, transfer, or refresh.
 
 FPF does not replace expert judgment. It gives expert judgment a shared architecture so it can compound rather than evaporate.

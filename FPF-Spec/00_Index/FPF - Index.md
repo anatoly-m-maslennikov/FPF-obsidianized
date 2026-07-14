@@ -6,7 +6,7 @@ page_type: "master-index"
 mode: "index-generated"
 title: "FPF - Index"
 source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
-generated_on: "2026-06-15"
+generated_on: "2026-07-14"
 generated: true
 ---
 
@@ -14,300 +14,331 @@ generated: true
 
 ## Hubs
 
-- [[FPF - First Principles Framework (FPF) - Core Conceptual Specification]] — 0 pages
-- [[FPF - Table of Content]] — 0 pages
-- [[FPF - First Principles Framework (FPF) Readme]] — 7 pages
-- [[FPF - Preface (non-normative)]] — 21 pages
-- [[FPF - Part A - Kernel Architecture Cluster]] — 21 pages
-- [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] — 23 pages
-- [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] — 35 pages
-- [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] — 24 pages
-- [[FPF - Part C - Kernel Extension Specifications]] — 56 pages
-- [[FPF - Part D - Multi-scale Ethics & Conflict-Optimisation]] — 1 pages
-- [[FPF - Part E - The FPF Constitution and Authoring Guides]] — 47 pages
-- [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] — 21 pages
-- [[FPF - Part G - Discipline SoTA Patterns Kit]] — 15 pages
-- [[FPF - Part H - Glossary & Definitional Pattern Index]] — 0 pages
-- [[FPF - Part I - Annexes & Extended Tutorials]] — 1 pages
-- [[FPF - Part J - Indexes & Navigation Aids]] — 0 pages
-- [[FPF - Part K - Lexical Debt]] — 3 pages
+- [[00_Hubs/FPF - First Principles Framework (FPF) - Core Conceptual Specification]] — 0 pages
+- [[00_Hubs/FPF - Table of Content]] — 0 pages
+- [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] — 7 pages
+- [[00_Hubs/FPF - Preface (non-normative)]] — 21 pages
+- [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] — 21 pages
+- [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] — 25 pages
+- [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] — 37 pages
+- [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] — 25 pages
+- [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] — 73 pages
+- [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] — 5 pages
+- [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] — 57 pages
+- [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] — 21 pages
+- [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] — 15 pages
+- [[00_Hubs/FPF - Part H - Reserved]] — 0 pages
+- [[00_Hubs/FPF - Part I - Annexes & Extended Tutorials]] — 1 pages
 
 ## Pages
 
 | ID | Page | Parent | Lines |
 |---|---|---|---|
-|  | [[00_Decide Whether FPF Fits]] | [[FPF - First Principles Framework (FPF) Readme]] | 415-453 |
-|  | [[01_First Practical Entries]] | [[FPF - First Principles Framework (FPF) Readme]] | 454-589 |
-|  | [[02_One-Minute Example]] | [[FPF - First Principles Framework (FPF) Readme]] | 590-608 |
-|  | [[03_What FPF Is]] | [[FPF - First Principles Framework (FPF) Readme]] | 609-623 |
-|  | [[04_What FPF Is Not]] | [[FPF - First Principles Framework (FPF) Readme]] | 624-636 |
-|  | [[05_How to Use This Repository]] | [[FPF - First Principles Framework (FPF) Readme]] | 637-665 |
-|  | [[06_Citation]] | [[FPF - First Principles Framework (FPF) Readme]] | 666-674 |
-|  | [[00_What This Specification Is And How To Use It]] | [[FPF - Preface (non-normative)]] | 677-715 |
-|  | [[01_FPF As A Project, Not Only A Pattern List]] | [[FPF - Preface (non-normative)]] | 716-733 |
-|  | [[02_Why FPF Exists]] | [[FPF - Preface (non-normative)]] | 734-745 |
-|  | [[03_Creativity And Assurance Mature Together]] | [[FPF - Preface (non-normative)]] | 746-767 |
-|  | [[04_Local Closure Inside An Open World]] | [[FPF - Preface (non-normative)]] | 768-786 |
-|  | [[05_FPF As An Evolutionary Architecture For Thought]] | [[FPF - Preface (non-normative)]] | 787-806 |
-|  | [[06_Architectural Characteristics Of Thought]] | [[FPF - Preface (non-normative)]] | 807-831 |
-|  | [[07_Beyond Bias Hunting]] | [[FPF - Preface (non-normative)]] | 832-843 |
-|  | [[08_Thinking Through Writing]] | [[FPF - Preface (non-normative)]] | 844-862 |
-|  | [[09_Thinking-Oriented Architecture, Not A Descriptive Upper Ontology]] | [[FPF - Preface (non-normative)]] | 863-880 |
-|  | [[10_The Bitter Lesson Stance]] | [[FPF - Preface (non-normative)]] | 881-898 |
-|  | [[11_From Flat Documents To Multi-View Truth]] | [[FPF - Preface (non-normative)]] | 899-918 |
-|  | [[12_Architecture As Structure Of Holons]] | [[FPF - Preface (non-normative)]] | 919-932 |
-|  | [[13_Boundary Statements]] | [[FPF - Preface (non-normative)]] | 933-951 |
-|  | [[14_Raising Semantic Precision]] | [[FPF - Preface (non-normative)]] | 952-968 |
-|  | [[15_Big FPF Storylines]] | [[FPF - Preface (non-normative)]] | 969-987 |
-|  | [[16_Transdisciplinarity As A Meta-Theory Of Thinking]] | [[FPF - Preface (non-normative)]] | 988-997 |
-|  | [[17_The Culinary Architecture Of Collective Thought]] | [[FPF - Preface (non-normative)]] | 998-1023 |
-|  | [[18_The Intellect Stack As A Pedagogical Map]] | [[FPF - Preface (non-normative)]] | 1024-1041 |
-|  | [[19_Purpose, Scope, And Non-Goals]] | [[FPF - Preface (non-normative)]] | 1042-1060 |
-|  | [[20_How To Continue After The readme]] | [[FPF - Preface (non-normative)]] | 1061-1068 |
-| A.0 | [[00_A.0 - Onboarding Glossary (NQD & E-E-LOG)]] | [[FPF - Part A - Kernel Architecture Cluster]] | 1071-1318 |
-| A.1 | [[00_A.01 - U.Holon, U.System, and U.Episteme]] | [[FPF - Part A - Kernel Architecture Cluster]] | 1319-1599 |
-| A.1.1 | [[01_A.01.01 - U.BoundedContext Semantic Frame]] | [[FPF - Part A - Kernel Architecture Cluster]] | 1600-1876 |
-| A.2 | [[00_A.02 - Role Taxonomy]] | [[FPF - Part A - Kernel Architecture Cluster]] | 1877-2085 |
-| A.2.1 | [[01_A.02.01 - U.RoleAssignment- Contextual Role Assignment]] | [[FPF - Part A - Kernel Architecture Cluster]] | 2086-2646 |
-| A.2.2 | [[02_A.02.02 - U.Capability]] | [[FPF - Part A - Kernel Architecture Cluster]] | 2647-2895 |
-| A.2.3 | [[03_A.02.03 - U.PromiseContent (Promise Content)]] | [[FPF - Part A - Kernel Architecture Cluster]] | 2896-3317 |
-| A.2.4 | [[04_A.02.04 - U.EvidenceRole]] | [[FPF - Part A - Kernel Architecture Cluster]] | 3318-3736 |
-| A.2.5 | [[05_A.02.05 - U.RoleStateGraph- The Named State Space of a Role]] | [[FPF - Part A - Kernel Architecture Cluster]] | 3737-4328 |
-| A.2.6 | [[06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes]] | [[FPF - Part A - Kernel Architecture Cluster]] | 4329-5193 |
-| A.2.7 | [[07_A.02.07 - U.RoleAlgebra- In-Context Role Relations]] | [[FPF - Part A - Kernel Architecture Cluster]] | 5194-5266 |
-| A.2.8 | [[08_A.02.08 - U.Commitment (Deontic Commitment Object)]] | [[FPF - Part A - Kernel Architecture Cluster]] | 5267-5584 |
-| A.2.9 | [[09_A.02.09 - U.SpeechAct (Communicative Work Object)]] | [[FPF - Part A - Kernel Architecture Cluster]] | 5585-5876 |
-| A.3 | [[00_A.03 - Transformer Constitution (Quartet)]] | [[FPF - Part A - Kernel Architecture Cluster]] | 5877-6086 |
-| A.3.1 | [[01_A.03.01 - U.Method- Context-Defined Way of Doing]] | [[FPF - Part A - Kernel Architecture Cluster]] | 6087-6430 |
-| A.3.2 | [[02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing]] | [[FPF - Part A - Kernel Architecture Cluster]] | 6431-6721 |
-| A.3.3 | [[03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme]] | [[FPF - Part A - Kernel Architecture Cluster]] | 6722-7027 |
-| A.3.4 | [[00_A.03.04 - U.Transformation- Bounded Change Under Conditions]] | [[FPF - Part A - Kernel Architecture Cluster]] | 7028-7492 |
-| A.3.4.P | [[01_A.03.04.P - Transformation Ontic Precision Restoration]] | [[FPF - Part A - Kernel Architecture Cluster]] | 7493-7735 |
-| A.4 | [[00_A.04 - Temporal Duality & Open-Ended Evolution Principle]] | [[FPF - Part A - Kernel Architecture Cluster]] | 7736-7862 |
-| A.5 | [[00_A.05 - Open-Ended Kernel & Extension Layering]] | [[FPF - Part A - Kernel Architecture Cluster]] | 7863-7911 |
-| A.6 | [[00_A.06 - Signature Stack & Boundary Discipline]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 7914-8447 |
-| A.6.RSIG | [[01_A.06.RSIG - Recognition Signatures for Descriptions]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 8448-8871 |
-| A.6.B | [[02_A.06.B - Boundary Norm Square (Laws - Admissibility - Deontics - Work-Effects)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 8872-9548 |
-| A.6.C | [[03_A.06.C - Contract Unpacking for Boundaries]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 9549-9869 |
-| A.6.0 | [[04_A.06.00 - U.Signature - Universal, law-governed declaration for a SubjectKind on a BaseType]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 9870-10218 |
-| A.6.1 | [[05_A.06.01 - U.Mechanism- Law-Governed Operation Algebra over a Subject Kind]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10219-10550 |
-| A.6.2 | [[06_A.06.02 - U.EffectFreeEpistemicMorphing - Effect-free morphisms of epistemes]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10551-10978 |
-| A.6.3 | [[00_A.06.03 - U.EpistemicViewing - EntityOfConcern-preserving morphism]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10979-11452 |
-| A.6.3.CSC | [[01_A.06.03.CSC - Controlled Semantic Coarsening]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 11453-11814 |
-| A.6.3.CR | [[02_A.06.03.CR - ConservativeRetextualization- EntityOfConcern-Preserving Textual Re-Expression]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 11815-12158 |
-| A.6.3.RT | [[03_A.06.03.RT - Representation-Scheme Transition- EntityOfConcern-Preserving Representation-Scheme Transition]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 12159-12624 |
-| A.6.4 | [[08_A.06.04 - U.EpistemicRetargeting - EntityOfConcern retargeting morphism]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 12625-13136 |
-| A.6.P | [[09_A.06.P - Relational Precision Restoration (RPR) - Kind-Explicit Qualified Relation Discipline]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 13137-13957 |
-| A.6.A | [[10_A.06.A - U.ActionInvitationPrecisionRestoration - Affordance and Action-Invitation Precision Restoration (ACT-INV)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 13958-14682 |
-| A.6.F | [[11_A.06.F - Function and Functional Precision Restoration (RPR-FUNCTION)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 14683-15063 |
-| A.6.M | [[12_A.06.M - Module Relation Repair]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 15064-15405 |
-| A.6.5 | [[13_A.06.05 - U.RelationSlotDiscipline - SlotKind - ValueKind - RefKind discipline for n-ary relations (with slot-operation lexicon)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 15406-16167 |
-| A.6.6 | [[14_A.06.06 - U.BaseDeclarationDiscipline - Kind-explicit, scoped, witnessed base declaration discipline (with base-change lexicon)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 16168-16732 |
-| A.6.7 | [[15_A.06.07 - MechSuiteDescription - Description of a set of distinct mechanisms]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 16733-17173 |
-| A.6.8 | [[16_A.06.08 - Service Polysemy Unpacking (RPR-SERV)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 17174-17693 |
-| A.6.9 | [[17_A.06.09 - U.CrossContextSamenessDisambiguation - Repairing cross-context “same - equivalent - align” via explicit Bridges (RPR-XCTX)]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 17694-18114 |
-| A.6.S | [[18_A.06.S - U.SignatureEngineeringPair - Signature engineering via a ConstructorSignature and a TargetSignature]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 18115-18545 |
-| A.6.H | [[19_A.06.H - Wholeness Language Unpacking - RPR-WHOLE]] | [[FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 18546-18909 |
-| A.7 | [[00_A.07 - Strict Distinction (Clarity Lattice)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 18912-19322 |
-| A.8 | [[00_A.08 - Universal Core Principle (C-1)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 19323-19439 |
-| A.9 | [[00_A.09 - Cross-Scale Consistency (C-3)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 19440-19553 |
-| A.10 | [[00_A.10 - Evidence Graph Referring- Claim-Bound Evidence and Provenance Graph]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 19554-19944 |
-| A.11 | [[00_A.11 - Ontological Parsimony (C-5)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 19945-20043 |
-| A.12 | [[00_A.12 - External Transformer & Reflexive Split]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20044-20176 |
-| A.13 | [[00_A.13 - The Agential Role & Agency Spectrum]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20177-20327 |
-| A.14 | [[00_A.14 - Advanced Mereology- Components, Portions, Aspects & Phases]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20328-20598 |
-| A.15 | [[00_A.15 - Role-Method-Work Alignment (Contextual Enactment)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20599-21028 |
-| A.15.1 | [[01_A.15.01 - U.Work]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21029-21448 |
-| A.15.2 | [[02_A.15.02 - U.WorkPlan]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21449-21693 |
-| A.15.3 | [[03_A.15.03 - SlotFillingsPlanItem]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21694-22144 |
-| A.15.4 | [[04_A.15.04 - Work-Relevant Source Restoration]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22145-22485 |
-| A.16 | [[00_A.16 - Language-State Move Coordination]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22486-22832 |
-| A.16.0 | [[01_A.16.00 - U.LanguageStateMoveTrajectory - Optional trajectory-account normal form over the language-state U.CharacteristicSpace]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22833-23076 |
-| A.16.1 | [[02_A.16.01 - U.PreArticulationCuePack]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23077-23361 |
-| A.16.2 | [[03_A.16.02 - Reopen - SketchBackoff - Respecify]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23362-23586 |
-| A.17 | [[00_A.17 - Canonical “Characteristic” (A.CHR-NORM)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23587-23722 |
-| A.18 | [[00_A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23723-23874 |
-| A.19 | [[00_A.19 - CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23875-24272 |
-| A.19.ECS | [[01_A.19.ECS - Evaluation CharacteristicSpace Construction]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24273-24516 |
-| A.19.SPR | [[02_A.19.SPR - State-Family Precision Restoration]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24517-24724 |
-| A.19.SOURCE-SET-SPACE-SUBSTRATE | [[03_A.19.SOURCE-SET-SPACE-SUBSTRATE - Source-Set and Search-Outcome-Space Substrate]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24725-25261 |
-| A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW | [[04_A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW - Declared-Substrate Interpretive View]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25262-25756 |
-| A.19.CN | [[05_A.19.CN - CN-frame (comparability & normalization)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25757-26134 |
-| A.19.CHR | [[06_A.19.CHR - CHRMechanismSuite]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 26135-26817 |
-| A.19.UNM | [[07_A.19.UNM - Unified Normalization Mechanism (UNM)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 26818-27239 |
-| A.19.UINDM | [[08_A.19.UINDM - Unified Indicatorization Mechanism (UINDM)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 27240-27528 |
-| A.19.USCM | [[09_A.19.USCM - Unified Scoring Mechanism, USCM]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 27529-27856 |
-| A.19.ULSAM | [[10_A.19.ULSAM - Unified Lawful Scale Aggregation Mechanism (ULSAM)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 27857-28151 |
-| A.19.CPM | [[11_A.19.CPM - Unified Comparison Mechanism (CPM)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28152-28482 |
-| A.19.SelectorMechanism | [[12_A.19.SelectorMechanism - Unified Selection Kernel, SelectorMechanism]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28483-28850 |
-| A.20 | [[00_A.20 - U.Flow.ConstraintValidity - Eulerian]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28851-29202 |
-| A.21 | [[00_A.21 - GateProfilization- OperationalGate(profile) (GateFit core)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 29203-29615 |
-| A.22 | [[00_A.22 - Structure and Structural Views (STRUCT-CAL)]] | [[FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 29616-29990 |
-| B.1 | [[00_B.01 - Universal Algebra of Aggregation (Γ)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 29993-30160 |
-| B.1.1 | [[01_B.01.01 - Dependency Graph & Proofs]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 30161-30485 |
-| B.1.2 | [[02_B.01.02 - System-specific Aggregation Γ-sys]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 30486-30622 |
-| B.1.3 | [[03_B.01.03 - Γepist - Knowledge-Specific Aggregation]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 30623-30909 |
-| B.1.4 | [[04_B.01.04 - Contextual & Temporal Aggregation (Γ-ctx & Γ-time)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 30910-31194 |
-| B.1.5 | [[05_B.01.05 - Γmethod - Order-Sensitive Method Composition & Work Enactment]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 31195-31524 |
-| B.1.6 | [[06_B.01.06 - Γ-work - Work as Spent Resource]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 31525-31804 |
-| B.2 | [[00_B.02 - Meta-Holon Transition (MHT)- Recognizing Emergence and Re-identifying Wholes]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 31805-32089 |
-| B.2.2 | [[01_B.02.02 - Meta-System Transition (MST)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32090-32184 |
-| B.2.3 | [[02_B.02.03 - Meta-Epistemic Transition (MET)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32185-32335 |
-| B.2.4 | [[03_B.02.04 - Meta-Functional Transition (MFT)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32336-32445 |
-| B.2.5 | [[04_B.02.05 - Supervisor-Subholon Feedback Loop]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32446-32587 |
-| B.3 | [[00_B.03 - Trust and Assurance Calculus (F-G-R with Congruence)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32588-33179 |
-| B.3.3 | [[01_B.03.03 - Assurance Subtypes & Levels]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33180-33263 |
-| B.3.4 | [[02_B.03.04 - Evidence Decay & Epistemic Debt]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33264-33381 |
-| B.3.5 | [[03_B.03.05 - Working-Model Relations & Grounding (CT2R-LOG)]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33382-33677 |
-| B.4 | [[00_B.04 - Canonical Evolution Loop]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33678-33799 |
-| B.4.1 | [[01_B.04.01 - Observe -- Notice -- Stabilize -- Route]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33800-34028 |
-| B.5 | [[00_B.05 - Canonical Reasoning Cycle]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34029-34128 |
-| B.5.1 | [[01_B.05.01 - Explore → Shape → Evidence → Operate]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34129-34188 |
-| B.5.2 | [[00_B.05.02 - Abductive Loop]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34189-34487 |
-| B.5.2.0 | [[01_B.05.02.00 - U.AbductivePrompt]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34488-34668 |
-| B.5.2.1 | [[02_B.05.02.01 - Creative Abduction with NQD]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34669-34842 |
-| B.5.3 | [[03_B.05.03 - Role-Projection Bridge]] | [[FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34843-34951 |
-| C.2 | [[00_C.02 - Epistemic holon composition (KD-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 34959-35067 |
-| C.2.1 | [[01_C.02.01 - U.Episteme - Epistemes and their slot relation]] | [[FPF - Part C - Kernel Extension Specifications]] | 35068-35906 |
-| C.2.P | [[00_C.02.P - Epistemic Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 35907-36547 |
-| C.2.2 | [[03_C.02.02 - Reliability R in the F-G-R triad]] | [[FPF - Part C - Kernel Extension Specifications]] | 36548-36922 |
-| C.2.2a | [[04_C.02.2a - U.LanguageStateSpace - Language-state chart over U.CharacteristicSpace]] | [[FPF - Part C - Kernel Extension Specifications]] | 36923-37190 |
-| C.2.3 | [[05_C.02.03 - Unified Formality Characteristic F]] | [[FPF - Part C - Kernel Extension Specifications]] | 37191-37501 |
-| C.2.LS | [[06_C.02.LS - U.LanguageStateFacetProfile - Thin profile bundle for language-state facets]] | [[FPF - Part C - Kernel Extension Specifications]] | 37502-37745 |
-| C.2.4 | [[07_C.02.04 - U.ArticulationExplicitness]] | [[FPF - Part C - Kernel Extension Specifications]] | 37746-37919 |
-| C.2.5 | [[08_C.02.05 - U.LanguageStateClosureDegree]] | [[FPF - Part C - Kernel Extension Specifications]] | 37920-38104 |
-| C.2.6 | [[09_C.02.06 - U.LanguageStateAnchoringMode]] | [[FPF - Part C - Kernel Extension Specifications]] | 38105-38268 |
-| C.2.7 | [[10_C.02.07 - U.LanguageStateRepresentationFactorBundle]] | [[FPF - Part C - Kernel Extension Specifications]] | 38269-38434 |
-| C.2.P.DR | [[01_C.02.P.DR - Declarative Representation Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 38435-38738 |
-| C.3 | [[00_C.03 - Kinds, Intent-Extent, and Typed Reasoning (Kind-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 38739-39597 |
-| C.3.1 | [[01_C.03.01 - U.Kind & SubkindOf (Core)]] | [[FPF - Part C - Kernel Extension Specifications]] | 39598-39720 |
-| C.3.2 | [[02_C.03.02 - KindSignature (+F) & Extension-MemberOf]] | [[FPF - Part C - Kernel Extension Specifications]] | 39721-39921 |
-| C.3.3 | [[03_C.03.03 - KindBridge & CL^k - Cross-context Mapping of Kinds]] | [[FPF - Part C - Kernel Extension Specifications]] | 39922-40157 |
-| C.3.4 | [[04_C.03.04 - RoleMask - Contextual Adaptation of Kinds (without cloning)]] | [[FPF - Part C - Kernel Extension Specifications]] | 40158-40381 |
-| C.3.5 | [[05_C.03.05 - KindAT - Intentional Abstraction Facet for Kinds (K0…K3)]] | [[FPF - Part C - Kernel Extension Specifications]] | 40382-40544 |
-| C.3.A | [[06_C.03.A - Typed Guard Macros for Kinds + USM (Annex)]] | [[FPF - Part C - Kernel Extension Specifications]] | 40545-41272 |
-| C.11 | [[00_C.11 - Decision Theory (Decsn-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 41273-41984 |
-| C.13 | [[00_C.13 - Constructional Mereology (Compose-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 41985-42179 |
-| C.16 | [[00_C.16 - Measurement & Metrics Characterization (MM-CHR)]] | [[FPF - Part C - Kernel Extension Specifications]] | 42180-42591 |
-| C.16.P | [[01_C.16.P - Characteristic and Scale Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 42592-42821 |
-| C.16.Q | [[02_C.16.Q - Quality-Term Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 42822-43598 |
-| C.17 | [[00_C.17 - Characterising Generative Novelty & Value (Creativity-CHR)]] | [[FPF - Part C - Kernel Extension Specifications]] | 43599-44318 |
-| C.18 | [[00_C.18 - Open-Ended Search Calculus (NQD-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 44319-44429 |
-| C.18.1 | [[01_C.18.01 - Scaling-Law Lens Binding (SLL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 44430-44531 |
-| C.19 | [[00_C.19 - Explore-Exploit Governor (E-E-LOG)]] | [[FPF - Part C - Kernel Extension Specifications]] | 44532-44885 |
-| C.19.1 | [[01_C.19.01 - Bitter-Lesson Preference (BLP)]] | [[FPF - Part C - Kernel Extension Specifications]] | 44886-44991 |
-| C.20 | [[00_C.20 - Composition of U.Discipline (Discipline-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 44992-45091 |
-| C.21 | [[00_C.21 - Field Health & Structure (Discipline-CHR)]] | [[FPF - Part C - Kernel Extension Specifications]] | 45092-45324 |
-| C.22 | [[00_C.22 - Problem Typing & TaskSignature Assignment (Problem-CHR)]] | [[FPF - Part C - Kernel Extension Specifications]] | 45325-45539 |
-| C.22.1 | [[01_C.22.01 - Task-family adaptation signature]] | [[FPF - Part C - Kernel Extension Specifications]] | 45540-45688 |
-| C.22.2 | [[02_C.22.02 - ProblemCard@Context]] | [[FPF - Part C - Kernel Extension Specifications]] | 45689-46337 |
-| C.23 | [[00_C.23 - MethodFamily Evidence & Maturity (Method-SoS-LOG)]] | [[FPF - Part C - Kernel Extension Specifications]] | 46338-46540 |
-| C.24 | [[00_C.24 - Agentic Tool-Use and Call Planning (C.Agent-Tools-CAL)]] | [[FPF - Part C - Kernel Extension Specifications]] | 46541-46888 |
-| C.25 | [[00_C.25 - Q-Bundle- Authoring --ilities- as Structured Quality Bundles]] | [[FPF - Part C - Kernel Extension Specifications]] | 46889-47299 |
-| C.26 | [[00_C.26 - Quantum-Like Modeling Lens]] | [[FPF - Part C - Kernel Extension Specifications]] | 47300-47892 |
-| C.26.1 | [[01_C.26.01 - Probe-Coupled Boundary Interaction]] | [[FPF - Part C - Kernel Extension Specifications]] | 47893-48192 |
-| C.26.2 | [[02_C.26.02 - Enacted Distributed State Evidence]] | [[FPF - Part C - Kernel Extension Specifications]] | 48193-48535 |
-| C.26.3 | [[03_C.26.03 - Viability-Envelope Boundary Regulation]] | [[FPF - Part C - Kernel Extension Specifications]] | 48536-48861 |
-| C.27 | [[00_C.27 - Temporal Claim Adequacy- State Readings, Temporal Trends, and Intervention-Sensitive Temporal Change]] | [[FPF - Part C - Kernel Extension Specifications]] | 48862-50823 |
-| C.27.TA | [[01_C.27.TA - Temporal Aspect- Time Windows, Rhythm, Cadence, and Currentness]] | [[FPF - Part C - Kernel Extension Specifications]] | 50824-51095 |
-| C.28 | [[00_C.28 - CausalUse-CAL- Causal-Use Questions, Causality-Ladder Rungs, Identification and Realizability]] | [[FPF - Part C - Kernel Extension Specifications]] | 51096-51962 |
-| C.29 | [[00_C.29 - Mathematical Lens Use]] | [[FPF - Part C - Kernel Extension Specifications]] | 51963-53299 |
-| C.30 | [[00_C.30 - Grounded Architecture and Selected-Structure Adequacy]] | [[FPF - Part C - Kernel Extension Specifications]] | 53300-53848 |
-| C.30.AD | [[01_C.30.AD - Architecture Description Adequacy]] | [[FPF - Part C - Kernel Extension Specifications]] | 53849-54197 |
-| C.30.P | [[02_C.30.P - Architecture and Structure Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 54198-54437 |
-| C.30.STRAT | [[03_C.30.STRAT - Stratification Wording Precision Restoration]] | [[FPF - Part C - Kernel Extension Specifications]] | 54438-54706 |
-| C.30.ASV | [[04_C.30.ASV - Architecture Structural View Adequacy (ASV)]] | [[FPF - Part C - Kernel Extension Specifications]] | 54707-55400 |
-| C.30.LCA | [[05_C.30.LCA - Control Structure View Adequacy (LCA)]] | [[FPF - Part C - Kernel Extension Specifications]] | 55401-55669 |
-| C.30.ILC | [[06_C.30.ILC - Cross-Scope Architecture Residual Triage]] | [[FPF - Part C - Kernel Extension Specifications]] | 55670-55917 |
-| C.30.TFS-REL | [[07_C.30.TFS-REL - Architecture Transformation-Flow Structure Relation]] | [[FPF - Part C - Kernel Extension Specifications]] | 55918-56256 |
-| C.31 | [[00_C.31 - Modularity and Reusable Structure Characteristics]] | [[FPF - Part C - Kernel Extension Specifications]] | 56257-56619 |
-| C.31.RSA | [[01_C.31.RSA - Reusable Structure Accounting]] | [[FPF - Part C - Kernel Extension Specifications]] | 56620-56999 |
-| C.31.ASAP | [[02_C.31.ASAP - Architecture Scale-Amenability Preference]] | [[FPF - Part C - Kernel Extension Specifications]] | 57000-57297 |
-| D.5 | [[00_D.05 - Bias-Audit & Ethical Assurance]] | [[FPF - Part D - Multi-scale Ethics & Conflict-Optimisation]] | 57300-57469 |
-| E.1 | [[00_E.01 - Vision & Mission- “Operating System for Thought”]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 57472-57532 |
-| E.2 | [[00_E.02 - The Eleven Pillars]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 57533-57656 |
-| E.2.DA | [[01_E.02.DA - FPF Pillar-Adequacy Evaluation CharacteristicSpace]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 57657-57930 |
-| E.3 | [[00_E.03 - Principle Taxonomy & Precedence Model]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 57931-58084 |
-| E.4 | [[00_E.04 - FPF Ecosystem Family Architecture]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58085-58154 |
-| E.5 | [[00_E.05 - Four Guard-Rails of FPF]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58155-58255 |
-| E.5.1 | [[01_E.05.01 - DevOps Lexical Firewall]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58256-58330 |
-| E.5.2 | [[02_E.05.02 - Notational Independence]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58331-58409 |
-| E.5.3 | [[03_E.05.03 - Unidirectional Dependency]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58410-58489 |
-| E.5.4 | [[04_E.05.04 - Cross-Disciplinary Bias Audit]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58490-58573 |
-| E.6 | [[00_E.06 - Didactic Architecture of the Specification]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58574-58673 |
-| E.7 | [[00_E.07 - Archetypal Grounding Principle]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58674-58757 |
-| E.8 | [[00_E.08 - FPF Authoring Conventions & Style Guide]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 58758-59324 |
-| E.8.ECSPF | [[01_E.08.ECSPF - Evaluation CharacteristicSpace FPF Pattern Publication Form]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 59325-59504 |
-| E.9 | [[00_E.09 - Design-Rationale Record (DRR) Method]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 59505-59851 |
-| E.9.DA | [[01_E.09.DA - DRR Decision-Adequacy Evaluation CharacteristicSpace]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 59852-60130 |
-| E.10 | [[00_E.10 - Unified Lexical Rules for FPF]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 60131-61788 |
-| E.10.ARCH | [[01_E.10.ARCH - Wording-Use Ontological Precision Restoration Architecture]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 61789-62121 |
-| E.10.P | [[02_E.10.P - Conceptual Prefixes policy & registry]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 62122-62151 |
-| E.10.D1 | [[03_E.10.D1 - Lexical Discipline for “Context” (D.CTX)]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 62152-62330 |
-| E.10.D2 | [[04_E.10.D2 - EntityOfConcern, Description Episteme, and Specification-Use Discipline]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 62331-62612 |
-| E.11 | [[00_E.11 - First-Practical Entry and Pattern-Use Discoverability Discipline]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 62613-62934 |
-| E.12 | [[00_E.12 - Didactic Primacy & Cognitive Ergonomics]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 62935-63022 |
-| E.13 | [[00_E.13 - Pragmatic Utility and Value Alignment]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 63023-63213 |
-| E.14 | [[00_E.14 - Human-Centric Working-Model]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 63214-63513 |
-| E.15 | [[00_E.15 - Lexical Authoring & Evolution Protocol (LEX-AUTH)]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 63514-63699 |
-| E.16 | [[00_E.16 - RoC-Autonomy Budget & Enforcement]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 63700-63906 |
-| E.17.0 | [[00_E.17.00 - U.MultiViewDescribing - Viewpoints, Views & Correspondences]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 63907-64292 |
-| E.17.1 | [[01_E.17.01 - U.ViewpointBundleLibrary - Reusable Viewpoint Bundles]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 64293-64664 |
-| E.17.2 | [[02_E.17.02 - TEVB - Typical Engineering Viewpoints Bundle]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 64665-65089 |
-| E.17 | [[03_E.17 - Multi-View Publication Kit]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 65090-65675 |
-| E.17.EFP | [[04_E.17.EFP - ExplanationFaithfulnessProfile - explanation-use discipline over existing MVPK faces]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 65676-66184 |
-| E.17.ID.CR | [[00_E.17.ID.CR - ComparativeReviewUnit - bounded comparison over comparative review units]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 66185-66901 |
-| E.17.AUD | [[00_E.17.AUD - PublicationUnit Stability Discipline - keep one publication unit stable enough to read honestly]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 66902-67197 |
-| E.17.AUD.LHR | [[01_E.17.AUD.LHR - PublicationUnit Stability Discipline and Local Head Restoration - repair the overloaded local lexical head before the publication unit inherits it]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 67198-67562 |
-| E.17.AUD.OOTD | [[02_E.17.AUD.OOTD - PublicationUnit Stability Discipline and PublicationUnit Primary EntityOfConcern Discipline - publication-unit stability over one primary EntityOfConcern]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 67563-67881 |
-| E.18 | [[00_E.18 - Transformation Flow Structure]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 67882-68430 |
-| E.18.1 | [[01_E.18.01 - Principles-to-Work Carry-Through]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 68431-68798 |
-| E.18.2 | [[02_E.18.02 - Transformation Flow Mathematical Description]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 68799-68998 |
-| E.19 | [[00_E.19 - Pattern Quality Gates- Review and Refresh Profiles]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 68999-69679 |
-| E.20 | [[00_E.20 - Mechanism Introduction Protocol]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 69680-70086 |
-| E.21 | [[00_E.21 - FPF Pattern-Quality Evaluation CharacteristicSpace]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 70087-70450 |
-| E.22 | [[00_E.22 - Improvement-Oriented Quality Evaluation Question Framing]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 70451-70665 |
-| E.23 | [[00_E.23 - Quality Improvement Loop Method]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 70666-70889 |
-| E.24 | [[00_E.24 - U.Ontic and Ontic Introduction Discipline]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 70890-71348 |
-| E.24.CD | [[01_E.24.CD - Ontic Candidate Detection]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 71349-71648 |
-| E.24.PUB | [[02_E.24.PUB - Ontic Description and Publication Discipline]] | [[FPF - Part E - The FPF Constitution and Authoring Guides]] | 71649-71890 |
-| F.0.1 | [[00_F.00.01 - Contextual Lexicon Principles]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 71893-72209 |
-| F.1 | [[00_F.01 - Domain-Family Landscape Survey]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 72210-72533 |
-| F.2 | [[00_F.02 - Term Harvesting & Normalisation]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 72534-72830 |
-| F.3 | [[00_F.03 - Intra-Context Sense Clustering]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 72831-73149 |
-| F.4 | [[00_F.04 - Role Description (RCS + RoleStateGraph + Checklists)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 73150-73497 |
-| F.5 | [[00_F.05 - Naming Discipline for U.Types & Roles]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 73498-73791 |
-| F.6 | [[00_F.06 - Role Assignment & Enactment Cycle (Six-Step)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 73792-74048 |
-| F.7 | [[00_F.07 - Concept-Set Table]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 74049-74321 |
-| F.8 | [[00_F.08 - Mint or Reuse- (U.Type vs Concept-Set vs Role Description vs Alias)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 74322-74646 |
-| F.9 | [[00_F.09 - Alignment & Bridge across Contexts]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 74647-75218 |
-| F.9.1 | [[01_F.09.01 - Bridge Stance Overlay]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 75219-75411 |
-| F.10 | [[00_F.10 - Status Families Mapping (Evidence • Standard • Requirement)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 75412-75766 |
-| F.11 | [[00_F.11 - Method Quartet Harmonisation]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 75767-76088 |
-| F.12 | [[00_F.12 - Service Acceptance-Work Evidence Link]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 76089-76412 |
-| F.13 | [[00_F.13 - Lexical Continuity & Deprecation]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 76413-76710 |
-| F.14 | [[00_F.14 - Anti-Explosion Control (Roles & Statuses)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 76711-76986 |
-| F.15 | [[00_F.15 - SCR-RSCR Harness for Unification]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 76987-77355 |
-| F.16 | [[00_F.16 - Worked-Example Template (Cross-Domain)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 77356-77640 |
-| F.17 | [[00_F.17 - Unified Term Sheet (UTS)]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 77641-77934 |
-| F.18 | [[00_F.18 - Local-First Unification Naming Protocol]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 77935-78785 |
-| F.19 | [[00_F.19 - Ontology-First Plain Technical Rewriting]] | [[FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 78786-79018 |
-| G.Core | [[00_G.Core - Part G Core Invariants]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 79021-79463 |
-| G.0 | [[00_G.0 - Frame Standard and Comparability Governance - CG-Spec]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 79464-79808 |
-| G.1 | [[00_G.01 - CG-Frame-Ready Generator]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 79809-80241 |
-| G.2 | [[00_G.02 - SoTA Harvester & Synthesis]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 80242-80745 |
-| G.3 | [[00_G.03 - CHR Authoring for a CG-Frame- Characteristics, Scales, Levels, Coordinates]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 80746-81183 |
-| G.4 | [[00_G.04 - CAL Authoring for a CG-Frame- Operators, Acceptance Clauses, Evidence Wiring]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 81184-81654 |
-| G.5 | [[00_G.05 - Multi-Method Dispatcher & MethodFamily Registry]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 81655-82302 |
-| G.6 | [[00_G.06 - Evidence Graph & Provenance Ledger]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 82303-82679 |
-| G.7 | [[00_G.07 - Cross-Tradition Bridge Calibration Kit (BridgeMatrix → BridgeCards + BCT-Sentinels)]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 82680-83066 |
-| G.8 | [[00_G.08 - SoS-LOG Bundles & Maturity Ladders]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 83067-83535 |
-| G.9 | [[00_G.09 - Parity and Benchmark Harness]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 83536-84046 |
-| G.10 | [[00_G.10 - SoTA Pack Shipping]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 84047-84450 |
-| G.11 | [[00_G.11 - Telemetry-Driven Refresh & Decay Orchestrator]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 84451-84823 |
-| G.12 | [[00_G.12 - DHC Dashboards (Discipline-Health time-series; admissible telemetry; generation-first)]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 84824-85234 |
-| G.13 | [[00_G.13 - External Interop Hooks for SoTA Discipline Packs (conceptual)]] | [[FPF - Part G - Discipline SoTA Patterns Kit]] | 85235-85576 |
-| I.2 | [[00_I.02 - Expanded Entry Disambiguation Cases]] | [[FPF - Part I - Annexes & Extended Tutorials]] | 85594-85803 |
-|  | [[00_Mandatory replacement map for measurement terms]] | [[FPF - Part K - Lexical Debt]] | 85814-85827 |
-|  | [[01_Temporal claim lexical debt from C.27]] | [[FPF - Part K - Lexical Debt]] | 85828-85842 |
-|  | [[02_Migration debt from A.2.6 (Scope, ClaimScope, WorkScope)]] | [[FPF - Part K - Lexical Debt]] | 85843-85908 |
+|  | [[00-readme/00_Decide Whether FPF Fits]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 399-445 |
+|  | [[00-readme/01_Practical-Use Cards]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 446-620 |
+|  | [[00-readme/02_One-Minute Example]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 621-641 |
+|  | [[00-readme/03_What FPF Is]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 642-658 |
+|  | [[00-readme/04_What FPF Is Not]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 659-671 |
+|  | [[00-readme/05_How to Use This Repository]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 672-705 |
+|  | [[00-readme/06_Citation]] | [[00_Hubs/FPF - First Principles Framework (FPF) Readme]] | 706-714 |
+|  | [[00-preface/00_What This Specification Is And How To Use It]] | [[00_Hubs/FPF - Preface (non-normative)]] | 717-769 |
+|  | [[00-preface/01_FPF As A Project, Not Only A Pattern List]] | [[00_Hubs/FPF - Preface (non-normative)]] | 770-787 |
+|  | [[00-preface/02_Why FPF Exists]] | [[00_Hubs/FPF - Preface (non-normative)]] | 788-799 |
+|  | [[00-preface/03_Creativity And Assurance Mature Together]] | [[00_Hubs/FPF - Preface (non-normative)]] | 800-821 |
+|  | [[00-preface/04_Local Closure Inside An Open World]] | [[00_Hubs/FPF - Preface (non-normative)]] | 822-840 |
+|  | [[00-preface/05_FPF As An Evolutionary Architecture For Thought]] | [[00_Hubs/FPF - Preface (non-normative)]] | 841-860 |
+|  | [[00-preface/06_Architectural Characteristics Of Thought]] | [[00_Hubs/FPF - Preface (non-normative)]] | 861-885 |
+|  | [[00-preface/07_Beyond Bias Hunting]] | [[00_Hubs/FPF - Preface (non-normative)]] | 886-897 |
+|  | [[00-preface/08_Thinking Through Writing]] | [[00_Hubs/FPF - Preface (non-normative)]] | 898-917 |
+|  | [[00-preface/09_Thinking-Oriented Architecture, Not A Descriptive Upper Ontology]] | [[00_Hubs/FPF - Preface (non-normative)]] | 918-935 |
+|  | [[00-preface/10_The Bitter Lesson Stance]] | [[00_Hubs/FPF - Preface (non-normative)]] | 936-953 |
+|  | [[00-preface/11_From Flat Documents To Multi-View Truth]] | [[00_Hubs/FPF - Preface (non-normative)]] | 954-975 |
+|  | [[00-preface/12_Architecture As Structure Of Holons]] | [[00_Hubs/FPF - Preface (non-normative)]] | 976-989 |
+|  | [[00-preface/13_Boundary Statements]] | [[00_Hubs/FPF - Preface (non-normative)]] | 990-1008 |
+|  | [[00-preface/14_Raising Semantic Precision]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1009-1025 |
+|  | [[00-preface/15_Big FPF Storylines]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1026-1044 |
+|  | [[00-preface/16_Transdisciplinarity As A Meta-Theory Of Thinking]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1045-1054 |
+|  | [[00-preface/17_The Culinary Architecture Of Collective Thought]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1055-1080 |
+|  | [[00-preface/18_The Intellect Stack As A Pedagogical Map]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1081-1098 |
+|  | [[00-preface/19_Purpose, Scope, And Non-Goals]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1099-1117 |
+|  | [[00-preface/20_How To Continue After The readme]] | [[00_Hubs/FPF - Preface (non-normative)]] | 1118-1125 |
+| A.0 | [[A_Kernel Architecture Cluster/00_Onboarding Glossary (NQD & E-E-LOG)/00_A.0 - Onboarding Glossary (NQD & E-E-LOG)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 1128-1375 |
+| A.1 | [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/00_A.01 - Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 1376-1731 |
+| A.1.1 | [[A_Kernel Architecture Cluster/01_Holon Ontic Foundation (U.Holon and Admitted Holon Kinds)/01_A.01.01 - U.BoundedContext Semantic Frame]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 1732-2012 |
+| A.2 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/00_A.02 - Role Taxonomy]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 2013-2349 |
+| A.2.1 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/01_A.02.01 - U.RoleAssignment - Contextual Work-Role Assignment]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 2350-2707 |
+| A.2.2 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/02_A.02.02 - U.Capability - System Ability Envelope and Measures]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 2708-3059 |
+| A.2.3 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/03_A.02.03 - U.PromiseContent (Promise Content)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 3060-3533 |
+| A.2.4 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/04_A.02.04 - Episteme Evidence-Use and Status-Use Relations]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 3534-3850 |
+| A.2.5 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/05_A.02.05 - RoleStateRelation@BoundedContext - Role State Space and Enactable-State Admission]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 3851-4184 |
+| A.2.6 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/06_A.02.06 - Unified Scope Mechanism (USM)- Context Slices & Scopes]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 4185-5073 |
+| A.2.7 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/07_A.02.07 - RoleRelationStructure@BoundedContext - Context-Local Role Relations and Representation-Lens Boundary]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 5074-5445 |
+| A.2.8 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/08_A.02.08 - U.Commitment (Deontic Commitment Object)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 5446-5788 |
+| A.2.9 | [[A_Kernel Architecture Cluster/02_Role Taxonomy/09_A.02.09 - U.SpeechAct (Communicative Work Object)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 5789-6107 |
+| A.3 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/00_A.03 - Transformer Constitution (Quartet)]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 6108-6317 |
+| A.3.1 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/01_A.03.01 - U.Method- Context-Defined Way of Doing]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 6318-6734 |
+| A.3.2 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/02_A.03.02 - U.MethodDescription- Description Episteme for a Way of Doing]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 6735-7041 |
+| A.3.3 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/03_A.03.03 - U.Dynamics- State-Space and Transition-Law Episteme]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 7042-7349 |
+| A.3.4 | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/00_A.03.04 - U.Transformation- Bounded Change Under Conditions]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 7350-7820 |
+| A.3.4.P | [[A_Kernel Architecture Cluster/03_Transformer Constitution (Quartet)/04_U.Transformation- Bounded Change Under Conditions/01_A.03.04.P - Transformation Ontic Precision Restoration]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 7821-8065 |
+| A.4 | [[A_Kernel Architecture Cluster/04_Temporal Duality & Open-Ended Evolution Principle/00_A.04 - Temporal Duality & Open-Ended Evolution Principle]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 8066-8193 |
+| A.5 | [[A_Kernel Architecture Cluster/05_Open-Ended Kernel & Extension Layering/00_A.05 - Open-Ended Kernel & Extension Layering]] | [[00_Hubs/FPF - Part A - Kernel Architecture Cluster]] | 8194-8242 |
+| A.6 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/00_A.06 - Signature Stack & Boundary Discipline]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 8245-8785 |
+| A.6.RSIG | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/01_A.06.RSIG - Recognition Signatures for Descriptions]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 8786-9209 |
+| A.6.B | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/02_A.06.B - Boundary Norm Square (Laws - Admissibility - Deontics - Work-Effects)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 9210-9886 |
+| A.6.C | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/03_A.06.C - Contract Unpacking for Boundaries]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 9887-10206 |
+| A.6.0 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/04_A.06.00 - U.Signature - Universal, law-governed declaration for a SubjectKind over a RangedValueKind]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10207-10568 |
+| A.6.1 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/05_A.06.01 - U.Mechanism - Law-governed application to a SubjectKind over a RangedValueKind]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10569-10902 |
+| A.6.2 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/06_A.06.02 - U.EffectFreeEpistemicMorphing - Effect-free morphisms of epistemes]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 10903-11349 |
+| A.6.3 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/07_03_U.EpistemicViewing - EntityOfConcern-preserving morphism/00_A.06.03 - U.EpistemicViewing - EntityOfConcern-preserving morphism]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 11350-11862 |
+| A.6.3.CSC | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/07_03_U.EpistemicViewing - EntityOfConcern-preserving morphism/01_A.06.03.CSC - Controlled Semantic Coarsening]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 11863-12227 |
+| A.6.3.CR | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/07_03_U.EpistemicViewing - EntityOfConcern-preserving morphism/02_A.06.03.CR - ConservativeRetextualization- EntityOfConcern-Preserving Textual Re-Expression]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 12228-12571 |
+| A.6.3.RT | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/07_03_U.EpistemicViewing - EntityOfConcern-preserving morphism/03_A.06.03.RT - Representation-Scheme Transition- EntityOfConcern-Preserving Representation-Scheme Transition]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 12572-13132 |
+| A.6.3.NAR | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/07_03_U.EpistemicViewing - EntityOfConcern-preserving morphism/04_A.06.03.NAR - Structure-to-Narrative Rendering]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 13133-13478 |
+| A.6.4 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/08_A.06.04 - U.EpistemicRetargeting - EntityOfConcern retargeting morphism]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 13479-14011 |
+| A.6.P | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/09_A.06.P - Relational Precision Restoration (RPR) - Kind-Explicit Qualified Relation Discipline]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 14012-14839 |
+| A.6.RSIR | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/10_A.06.RSIR - Relation, Signature, Interface, Role, and Slot Precision Restoration]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 14840-15078 |
+| A.6.A | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/11_A.06.A - Action-Invitation Precision Restoration (ACT-INV)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 15079-15813 |
+| A.6.F | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/12_A.06.F - Function and Functional Precision Restoration (RPR-FUNCTION)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 15814-16194 |
+| A.6.M | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/13_A.06.M - Module Relation Repair]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 16195-16539 |
+| A.6.5 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/14_A.06.05 - U.RelationSlotDiscipline - SlotKind, ValueKind, RefKind, and slot-operation discipline]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 16540-16827 |
+| A.6.6 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/15_A.06.06 - Base Declaration Discipline - Kind-explicit, scoped, witnessed base declaration discipline (with base-change lexicon)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 16828-17402 |
+| A.6.7 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/16_A.06.07 - MechSuiteDescription - Description of a set of distinct mechanisms]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 17403-17843 |
+| A.6.8 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/17_A.06.08 - Service Polysemy Unpacking (RPR-SERV)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 17844-18363 |
+| A.6.9 | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/18_A.06.09 - Cross-Context Sameness Disambiguation - Repairing cross-context -same-, -equivalent-, and -align- via explicit Bridges (RPR-XCTX)]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 18364-18798 |
+| A.6.S | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/19_A.06.S - U.SignatureEngineeringPair - Signature engineering via a ConstructorSignature and a TargetSignature]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 18799-19237 |
+| A.6.H | [[A_Kernel Architecture Cluster/06_Signature Stack & Boundary Discipline/20_A.06.H - Wholeness Language Unpacking - RPR-WHOLE]] | [[00_Hubs/FPF - Cluster A.IV.A - Signature Stack & Boundary Discipline (A.6.-)]] | 19238-19601 |
+| A.7 | [[A_Kernel Architecture Cluster/07_Strict Distinction (Clarity Lattice)/00_A.07 - Strict Distinction (Clarity Lattice)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 19604-20023 |
+| A.8 | [[A_Kernel Architecture Cluster/08_Universal Core Principle/00_A.08 - Universal Core Principle]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20024-20163 |
+| A.9 | [[A_Kernel Architecture Cluster/09_Cross-Scale Consistency (C-3)/00_A.09 - Cross-Scale Consistency (C-3)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20164-20277 |
+| A.10 | [[A_Kernel Architecture Cluster/10_Evidence Graph Referring- Claim-Bound Evidence and Provenance Graph/00_A.10 - Evidence Graph Referring- Claim-Bound Evidence and Provenance Graph]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20278-20691 |
+| A.11 | [[A_Kernel Architecture Cluster/11_Ontological Parsimony/00_A.11 - Ontological Parsimony]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20692-20837 |
+| A.12 | [[A_Kernel Architecture Cluster/12_Acting-Side Externalization and Reflexive Split/00_A.12 - Acting-Side Externalization and Reflexive Split]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 20838-21112 |
+| A.13 | [[A_Kernel Architecture Cluster/13_The Agential Role & Agency Spectrum/00_A.13 - The Agential Role & Agency Spectrum]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21113-21263 |
+| A.14 | [[A_Kernel Architecture Cluster/14_Advanced Mereology- Components, Portions, Aspects & Phases/00_A.14 - Advanced Mereology- Components, Portions, Aspects & Phases]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21264-21553 |
+| A.15 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/00_A.15 - Role-Method-Work Alignment (Contextual Enactment)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 21554-22019 |
+| A.15.1 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/01_A.15.01 - U.Work]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22020-22510 |
+| A.15.2 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/02_A.15.02 - U.WorkPlan]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22511-22758 |
+| A.15.3 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/03_A.15.03 - SlotFillingsPlanItem]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 22759-23160 |
+| A.15.4 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/04_A.15.04 - Work-Relevant Appearance-Based Reliance Repair]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23161-23548 |
+| A.15.5 | [[A_Kernel Architecture Cluster/15_Role-Method-Work Alignment (Contextual Enactment)/05_A.15.05 - Work-Entry Readiness and Full-Kit Preparation]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23549-23771 |
+| A.16 | [[A_Kernel Architecture Cluster/16_Language-State Move Coordination/00_A.16 - Language-State Move Coordination]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 23772-24120 |
+| A.16.0 | [[A_Kernel Architecture Cluster/16_Language-State Move Coordination/01_A.16.00 - U.LanguageStateMoveTrajectory - Optional trajectory-account normal form over the language-state U.CharacteristicSpace]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24121-24378 |
+| A.16.1 | [[A_Kernel Architecture Cluster/16_Language-State Move Coordination/02_A.16.01 - U.PreArticulationCuePack]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24379-24673 |
+| A.16.2 | [[A_Kernel Architecture Cluster/16_Language-State Move Coordination/03_A.16.02 - Reopen - SketchBackoff - Respecify]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24674-24898 |
+| A.17 | [[A_Kernel Architecture Cluster/17_Canonical “Characteristic” (A.CHR-NORM)/00_A.17 - Canonical “Characteristic” (A.CHR-NORM)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 24899-25034 |
+| A.18 | [[A_Kernel Architecture Cluster/18_Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)/00_A.18 - Minimal CSLC in Kernel (Characteristic ⟷ Scale ⟷ Level ⟷ Coordinate) (A.CSLC-KERNEL)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25035-25186 |
+| A.19 | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/00_A.19 - CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25187-25629 |
+| A.19.ECS | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/01_A.19.ECS - Evaluation CharacteristicSpace Construction]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25630-25881 |
+| A.19.SPR | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/02_A.19.SPR - State-Family Precision Restoration]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 25882-26089 |
+| A.19.SOURCE-SET-SPACE-SUBSTRATE | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/03_A.19.SOURCE-SET-SPACE-SUBSTRATE - Source-Set and Search-Outcome-Space Substrate]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 26090-26626 |
+| A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/04_A.19.DECLARED-SUBSTRATE-INTERPRETIVE-VIEW - Declared-Substrate Interpretive View]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 26627-27121 |
+| A.19.CN | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/05_A.19.CN - CN-frame (comparability & normalization)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 27122-27499 |
+| A.19.CHR | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/06_A.19.CHR - CHRMechanismSuite]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 27500-28182 |
+| A.19.UNM | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/07_A.19.UNM - Unified Normalization Mechanism (UNM)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28183-28604 |
+| A.19.UINDM | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/08_A.19.UINDM - Unified Indicatorization Mechanism (UINDM)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28605-28893 |
+| A.19.USCM | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/09_A.19.USCM - Unified Scoring Mechanism, USCM]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 28894-29221 |
+| A.19.ULSAM | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/10_A.19.ULSAM - Unified Lawful Scale Aggregation Mechanism (ULSAM)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 29222-29516 |
+| A.19.CPM | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/11_A.19.CPM - Unified Comparison Mechanism (CPM)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 29517-29851 |
+| A.19.SelectorMechanism | [[A_Kernel Architecture Cluster/19_CharacteristicSpace & Dynamics Hook (A.CHR-SPACE)/12_A.19.SelectorMechanism - Unified Selection Kernel, SelectorMechanism]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 29852-30215 |
+| A.20 | [[A_Kernel Architecture Cluster/20_Flow Constraint Validity - Eulerian/00_A.20 - Flow Constraint Validity - Eulerian]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 30216-30578 |
+| A.21 | [[A_Kernel Architecture Cluster/21_GateProfilization- OperationalGate(profile) (GateFit core)/00_A.21 - GateProfilization- OperationalGate(profile) (GateFit core)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 30579-31003 |
+| A.22 | [[A_Kernel Architecture Cluster/22_Structure and Structural Views (STRUCT-CAL)/00_A.22 - Structure and Structural Views (STRUCT-CAL)]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 31004-31387 |
+| A.22.CGUS | [[A_Kernel Architecture Cluster/22_Structure and Structural Views (STRUCT-CAL)/01_A.22.CGUS - Constraint-Governed Unfolding Structure]] | [[00_Hubs/FPF - Cluster A.V - Constitutional Principles of the Kernel]] | 31388-31976 |
+| B.1 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/00_B.01 - Holon Aggregation and Part-Whole Construction]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 31979-32212 |
+| B.1.1 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/01_B.01.01 - Dependency Structure and Relation Grounding]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32213-32422 |
+| B.1.2 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/02_B.01.02 - System Aggregation and Holon Delimitation]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32423-32648 |
+| B.1.3 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/03_B.01.03 - Γepist - Knowledge-Specific Aggregation]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32649-32935 |
+| B.1.4 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/04_B.01.04 - Contextual and Temporal Aggregation]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 32936-33145 |
+| B.1.5 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/05_B.01.05 - Gammamethod - Order-Sensitive Method Composition and Work Enactment]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33146-33463 |
+| B.1.6 | [[B_Trans-disciplinary Reasoning Cluster/00_01_Holon Aggregation and Part-Whole Construction/06_B.01.06 - Work-Resource Aggregation]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33464-33676 |
+| B.2 | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/00_B.02 - Meta-Holon Transition - Whole Reidentification]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33677-33953 |
+| B.2.P | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/01_B.02.P - Emergence and MHT Precision Restoration]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 33954-34211 |
+| B.2.2 | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/02_B.02.02 - Meta-System Transition - System Specialization of MHT]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34212-34464 |
+| B.2.3 | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/03_B.02.03 - Meta-Holon Transition With Episteme Result]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34465-34697 |
+| B.2.4 | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/04_B.02.04 - Capability and Functioning Whole Reidentification]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34698-34921 |
+| B.2.5 | [[B_Trans-disciplinary Reasoning Cluster/01_02_Meta-Holon Transition - Whole Reidentification/05_B.02.05 - Supervisor-Subholon Feedback Relation]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 34922-35135 |
+| B.3 | [[B_Trans-disciplinary Reasoning Cluster/02_03_Trust and Assurance Calculus (F-G-R with Congruence)/00_B.03 - Trust and Assurance Calculus (F-G-R with Congruence)]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 35136-35737 |
+| B.3.3 | [[B_Trans-disciplinary Reasoning Cluster/02_03_Trust and Assurance Calculus (F-G-R with Congruence)/01_B.03.03 - Assurance Subtypes & Levels]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 35738-35821 |
+| B.3.4 | [[B_Trans-disciplinary Reasoning Cluster/02_03_Trust and Assurance Calculus (F-G-R with Congruence)/02_B.03.04 - Evidence Decay & Epistemic Debt]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 35822-35939 |
+| B.3.5 | [[B_Trans-disciplinary Reasoning Cluster/02_03_Trust and Assurance Calculus (F-G-R with Congruence)/03_B.03.05 - Working-Model Relations & Grounding (CT2R-LOG)]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 35940-36288 |
+| B.4 | [[B_Trans-disciplinary Reasoning Cluster/03_04_Canonical Evolution Loop/00_B.04 - Canonical Evolution Loop]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 36289-36432 |
+| B.4.1 | [[B_Trans-disciplinary Reasoning Cluster/03_04_Canonical Evolution Loop/01_B.04.01 - Observe -- Notice -- Stabilize -- Route]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 36433-36661 |
+| B.5 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/00_B.05 - Canonical Reasoning Cycle]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 36662-36761 |
+| B.5.1 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/01_B.05.01 - Explore → Shape → Evidence → Operate]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 36762-36821 |
+| B.5.2 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/02_Abductive Loop/00_B.05.02 - Abductive Loop]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 36822-37142 |
+| B.5.2.0 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/02_Abductive Loop/01_B.05.02.00 - U.AbductivePrompt]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 37143-37335 |
+| B.5.2.1 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/02_Abductive Loop/02_B.05.02.01 - Creative Abduction with NQD]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 37336-37509 |
+| B.5.3 | [[B_Trans-disciplinary Reasoning Cluster/04_05_Canonical Reasoning Cycle/03_B.05.03 - Domain-Concept Bridge]] | [[00_Hubs/FPF - Part B - Trans-disciplinary Reasoning Cluster]] | 37510-37603 |
+| C.2 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/00_C.02 - Epistemic holon composition (KD-CAL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 37611-37719 |
+| C.2.1 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/01_C.02.01 - U.Episteme - Epistemes and their slot relation]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 37720-38587 |
+| C.2.P | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/02_P_Epistemic Precision Restoration/00_C.02.P - Epistemic Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 38588-39246 |
+| C.2.2 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/03_C.02.02 - Reliability R in the F-G-R triad]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 39247-39621 |
+| C.2.2a | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/04_C.02.2a - U.LanguageStateSpace - Language-state chart over U.CharacteristicSpace]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 39622-39885 |
+| C.2.3 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/05_C.02.03 - Unified Formality Characteristic F]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 39886-40196 |
+| C.2.LS | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/06_C.02.LS - U.LanguageStateFacetProfile - Thin profile bundle for language-state facets]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 40197-40448 |
+| C.2.4 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/07_C.02.04 - U.ArticulationExplicitness]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 40449-40630 |
+| C.2.5 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/08_C.02.05 - U.LanguageStateClosureDegree]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 40631-40823 |
+| C.2.6 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/09_C.02.06 - U.LanguageStateAnchoringMode]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 40824-40998 |
+| C.2.7 | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/10_C.02.07 - U.LanguageStateRepresentationFactorBundle]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 40999-41173 |
+| C.2.P.DR | [[C_Kernel Extension Specifications/00_02_Epistemic holon composition (KD-CAL)/02_P_Epistemic Precision Restoration/01_C.02.P.DR - Declarative Representation Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 41174-41490 |
+| C.3 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/00_C.03 - Kinds, Intent and Extent, and Typed Reasoning]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 41491-41648 |
+| C.3.1 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/01_C.03.01 - U.Kind and U.SubkindOf Core]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 41649-41773 |
+| C.3.2 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/02_C.03.02 - KindSignature (+F) & Extension-MemberOf]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 41774-41974 |
+| C.3.3 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/03_C.03.03 - KindBridge & CL^k - Cross-context Mapping of Kinds]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 41975-42210 |
+| C.3.4 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/04_C.03.04 - RoleMask - Contextual Adaptation of Kinds (without cloning)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 42211-42434 |
+| C.3.5 | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/05_C.03.05 - KindAT - Intentional Abstraction Facet for Kinds (K0…K3)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 42435-42597 |
+| C.3.A | [[C_Kernel Extension Specifications/01_03_Kinds, Intent and Extent, and Typed Reasoning/06_C.03.A - Typed Guard Macros for Kinds + USM (Annex)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 42598-43325 |
+| C.11 | [[C_Kernel Extension Specifications/02_11_Decision Theory (Decsn-CAL)/00_C.11 - Decision Theory (Decsn-CAL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 43326-44041 |
+| C.13 | [[C_Kernel Extension Specifications/03_13_Constructional Mereology (Compose-CAL)/00_C.13 - Constructional Mereology (Compose-CAL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 44042-44268 |
+| C.16 | [[C_Kernel Extension Specifications/04_16_Measurement & Metrics Characterization (MM-CHR)/00_C.16 - Measurement & Metrics Characterization (MM-CHR)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 44269-44722 |
+| C.16.P | [[C_Kernel Extension Specifications/04_16_Measurement & Metrics Characterization (MM-CHR)/01_C.16.P - Characteristic and Scale Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 44723-44972 |
+| C.16.Q | [[C_Kernel Extension Specifications/04_16_Measurement & Metrics Characterization (MM-CHR)/02_C.16.Q - Quality-Term Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 44973-45749 |
+| C.17 | [[C_Kernel Extension Specifications/05_17_Characterising Generative Novelty & Value (Creativity-CHR)/00_C.17 - Characterising Generative Novelty & Value (Creativity-CHR)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 45750-46469 |
+| C.18 | [[C_Kernel Extension Specifications/06_18_Open-Ended Search Archive and Front Stewardship/00_C.18 - Open-Ended Search Archive and Front Stewardship]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 46470-46694 |
+| C.18.1 | [[C_Kernel Extension Specifications/06_18_Open-Ended Search Archive and Front Stewardship/01_C.18.01 - Scaling-Law Lens Binding (SLL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 46695-46829 |
+| C.19 | [[C_Kernel Extension Specifications/07_19_Explore-Exploit Live-Pool Governor/00_C.19 - Explore-Exploit Live-Pool Governor]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 46830-47222 |
+| C.19.1 | [[C_Kernel Extension Specifications/07_19_Explore-Exploit Live-Pool Governor/01_C.19.01 - Bitter-Lesson Preference (BLP)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 47223-47363 |
+| C.20 | [[C_Kernel Extension Specifications/08_20_Composition of U.Discipline (Discipline-CAL)/00_C.20 - Composition of U.Discipline (Discipline-CAL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 47364-47498 |
+| C.21 | [[C_Kernel Extension Specifications/09_21_Field Health & Structure (Discipline-CHR)/00_C.21 - Field Health & Structure (Discipline-CHR)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 47499-47753 |
+| C.22 | [[C_Kernel Extension Specifications/10_22_Problem Typing & TaskSignature Assignment (Problem-CHR)/00_C.22 - Problem Typing & TaskSignature Assignment (Problem-CHR)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 47754-48126 |
+| C.22.1 | [[C_Kernel Extension Specifications/10_22_Problem Typing & TaskSignature Assignment (Problem-CHR)/01_C.22.01 - Task-family adaptation signature]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 48127-48275 |
+| C.22.2 | [[C_Kernel Extension Specifications/10_22_Problem Typing & TaskSignature Assignment (Problem-CHR)/02_C.22.02 - ProblemCard@Context]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 48276-48928 |
+| C.23 | [[C_Kernel Extension Specifications/11_23_MethodFamily Evidence & Maturity (Method-SoS-LOG)/00_C.23 - MethodFamily Evidence & Maturity (Method-SoS-LOG)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 48929-49131 |
+| C.24 | [[C_Kernel Extension Specifications/12_24_Agentic Tool-Use and Call Planning (C.Agent-Tools-CAL)/00_C.24 - Agentic Tool-Use and Call Planning (C.Agent-Tools-CAL)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 49132-49481 |
+| C.25 | [[C_Kernel Extension Specifications/13_25_Q-Bundle- Authoring --ilities- as Structured Quality Bundles/00_C.25 - Q-Bundle- Authoring --ilities- as Structured Quality Bundles]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 49482-49898 |
+| C.26 | [[C_Kernel Extension Specifications/14_26_Quantum-Like Modeling Lens/00_C.26 - Quantum-Like Modeling Lens]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 49899-50495 |
+| C.26.1 | [[C_Kernel Extension Specifications/14_26_Quantum-Like Modeling Lens/01_C.26.01 - Probe-Coupled Boundary Interaction]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 50496-50795 |
+| C.26.2 | [[C_Kernel Extension Specifications/14_26_Quantum-Like Modeling Lens/02_C.26.02 - Enacted Distributed State Evidence]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 50796-51138 |
+| C.26.3 | [[C_Kernel Extension Specifications/14_26_Quantum-Like Modeling Lens/03_C.26.03 - Viability-Envelope Boundary Regulation]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 51139-51469 |
+| C.27 | [[C_Kernel Extension Specifications/15_27_Temporal Claim Adequacy- State Readings, Temporal Trends, and Intervention-Sensitive Temporal Change/00_C.27 - Temporal Claim Adequacy- State Readings, Temporal Trends, and Intervention-Sensitive Temporal Change]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 51470-53433 |
+| C.27.TA | [[C_Kernel Extension Specifications/15_27_Temporal Claim Adequacy- State Readings, Temporal Trends, and Intervention-Sensitive Temporal Change/01_C.27.TA - Temporal Aspect- Time Windows, Rhythm, Cadence, and Currentness]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 53434-53705 |
+| C.28 | [[C_Kernel Extension Specifications/16_28_CausalUse-CAL- Causal-Use Questions, Causality-Ladder Rungs, Identification and Realizability/00_C.28 - CausalUse-CAL- Causal-Use Questions, Causality-Ladder Rungs, Identification and Realizability]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 53706-54572 |
+| C.29 | [[C_Kernel Extension Specifications/17_29_Mathematical Lens Use/00_C.29 - Mathematical Lens Use]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 54573-55934 |
+| C.30 | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/00_C.30 - Grounded Architecture and Selected-Structure Adequacy]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 55935-56526 |
+| C.30.AD | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/01_AD_Architecture Description Adequacy/00_C.30.AD - Architecture Description Adequacy]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 56527-56928 |
+| C.30.AD.BA | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/01_AD_Architecture Description Adequacy/01_C.30.AD.BA - Built-Asset Architecture Description and Reference Designation]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 56929-57125 |
+| C.30.P | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/02_C.30.P - Architecture and Structure Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 57126-57373 |
+| C.30.STRAT | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/03_C.30.STRAT - Stratification Wording Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 57374-57643 |
+| C.30.ASV | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/04_C.30.ASV - Architecture Structural View Adequacy (ASV)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 57644-58359 |
+| C.30.LCA | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/05_C.30.LCA - Control Structure View Adequacy (LCA)]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 58360-58628 |
+| C.30.ILC | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/06_C.30.ILC - Cross-Scope Architecture Residual Triage]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 58629-58880 |
+| C.30.TFS-REL | [[C_Kernel Extension Specifications/18_30_Grounded Architecture and Selected-Structure Adequacy/07_C.30.TFS-REL - Architecture Transformation-Flow Structure Relation]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 58881-59241 |
+| C.31 | [[C_Kernel Extension Specifications/19_31_Modularity and Reusable Structure Characteristics/00_C.31 - Modularity and Reusable Structure Characteristics]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 59242-59608 |
+| C.31.RSA | [[C_Kernel Extension Specifications/19_31_Modularity and Reusable Structure Characteristics/01_C.31.RSA - Reusable Structure Accounting]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 59609-59989 |
+| C.31.ASAP | [[C_Kernel Extension Specifications/19_31_Modularity and Reusable Structure Characteristics/02_C.31.ASAP - Architecture Scale-Amenability Preference]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 59990-60289 |
+| C.32 | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/00_C.32 - Architecture Candidate Synthesis]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 60290-60608 |
+| C.32.P2S | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/01_C.32.P2S - Problem-to-Structure Architecturing Unfolding]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 60609-60900 |
+| C.32.HCS | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/02_C.32.HCS - Architecture-Bearing Family Characteristic Starter Packs]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 60901-61101 |
+| C.32.ACS | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/03_C.32.ACS - Architecture Characteristic Criteria Set for Improvement Cycles]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 61102-61366 |
+| C.32.ACE | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/04_C.32.ACE - Architecture Characteristic Eval Programs]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 61367-61567 |
+| C.32.CONWAY | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/05_C.32.CONWAY - Transformer and Transformed Architecture Correspondence]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 61568-61819 |
+| C.32.MLAO | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/06_C.32.MLAO - Multilevel Architecture Residual Optimization]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 61820-62088 |
+| C.32.FAIL | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/07_C.32.FAIL - Architecture Failure Recognition and Repair]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 62089-62324 |
+| C.32.PAD | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/08_C.32.PAD - Project Architecture Decision After Candidate Synthesis]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 62325-62626 |
+| C.32.ADR | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/09_C.32.ADR - Architecture Decision Record Projection]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 62627-62850 |
+| C.32.ADA | [[C_Kernel Extension Specifications/20_32_Architecture Candidate Synthesis/10_C.32.ADA - Architecture Decision Adequacy Scales]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 62851-63115 |
+| C.33 | [[C_Kernel Extension Specifications/21_33_Structural Information Adequacy for Architecture Capture and Missing-Structure Return/00_C.33 - Structural Information Adequacy for Architecture Capture and Missing-Structure Return]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 63116-63318 |
+| C.34 | [[C_Kernel Extension Specifications/22_34_Structural Correspondence, Equivalence, and Morphism Adequacy/00_C.34 - Structural Correspondence, Equivalence, and Morphism Adequacy]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 63319-63507 |
+| C.35 | [[C_Kernel Extension Specifications/23_35_Structural Synthesis and Discovery Adequacy/00_C.35 - Structural Synthesis and Discovery Adequacy]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 63508-63704 |
+| C.36 | [[C_Kernel Extension Specifications/24_36_Cultural Evolution and Cultural-Evolution Engineering/00_C.36 - Cultural Evolution and Cultural-Evolution Engineering]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 63705-64006 |
+| C.36.P | [[C_Kernel Extension Specifications/24_36_Cultural Evolution and Cultural-Evolution Engineering/01_C.36.P - Cultural-Evolution Wording-Use Precision Restoration]] | [[00_Hubs/FPF - Part C - Kernel Extension Specifications]] | 64007-64152 |
+| D.1 | [[D_Multi-scale Ethics and Conflict Optimization/00_01_Ethical Value Plurality and FPF Boundary/00_D.01 - Ethical Value Plurality and FPF Boundary]] | [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] | 64155-64289 |
+| D.2 | [[D_Multi-scale Ethics and Conflict Optimization/01_02_Multilevel Ethics For Holon Work/00_D.02 - Multilevel Ethics For Holon Work]] | [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] | 64290-64426 |
+| D.3 | [[D_Multi-scale Ethics and Conflict Optimization/02_03_Interlevel Ethical Conflict Structure/00_D.03 - Interlevel Ethical Conflict Structure]] | [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] | 64427-64571 |
+| D.4 | [[D_Multi-scale Ethics and Conflict Optimization/03_04_Ethical Mediation and Decision Use/00_D.04 - Ethical Mediation and Decision Use]] | [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] | 64572-64709 |
+| D.5 | [[D_Multi-scale Ethics and Conflict Optimization/04_05_Bias Audit and Ethical Assurance/00_D.05 - Bias Audit and Ethical Assurance]] | [[00_Hubs/FPF - Part D - Multi-scale Ethics and Conflict Optimization]] | 64710-64887 |
+| E.1 | [[E_The FPF Constitution and Authoring Guides/00_01_Vision & Mission- “Operating System for Thought”/00_E.01 - Vision & Mission- “Operating System for Thought”]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 64890-64950 |
+| E.2 | [[E_The FPF Constitution and Authoring Guides/01_02_The Eleven Pillars/00_E.02 - The Eleven Pillars]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 64951-65074 |
+| E.2.DA | [[E_The FPF Constitution and Authoring Guides/01_02_The Eleven Pillars/01_E.02.DA - FPF Pillar-Adequacy Evaluation CharacteristicSpace]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 65075-65349 |
+| E.3 | [[E_The FPF Constitution and Authoring Guides/02_03_Principle Taxonomy & Precedence Model/00_E.03 - Principle Taxonomy & Precedence Model]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 65350-65503 |
+| E.4 | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/00_E.04 - FPF Ecosystem Family Architecture]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 65504-65707 |
+| E.4.FPF | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/01_E.04.FPF - First Principles Framework Form and Publication-or-Access Carrier Assembly]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 65708-65894 |
+| E.4.PFAD | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/02_E.04.PFAD - Principle-Framework Architecture Decision]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 65895-66065 |
+| E.4.DPF | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/03_DPF_Domain Principle Framework Authoring and Publication-or-Access Carrier Assembly/00_E.04.DPF - Domain Principle Framework Authoring and Publication-or-Access Carrier Assembly]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 66066-66505 |
+| E.4.DPF.DA | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/03_DPF_Domain Principle Framework Authoring and Publication-or-Access Carrier Assembly/01_E.04.DPF.DA - Domain Principle Framework Package-Adequacy Evaluation CharacteristicSpace]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 66506-66758 |
+| E.4.PFR | [[E_The FPF Constitution and Authoring Guides/03_04_FPF Ecosystem Family Architecture/04_E.04.PFR - Pattern-Framework Relation and Edition Discipline]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 66759-66954 |
+| E.5 | [[E_The FPF Constitution and Authoring Guides/04_05_Four Guard-Rails of FPF/00_E.05 - Four Guard-Rails of FPF]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 66955-67055 |
+| E.5.1 | [[E_The FPF Constitution and Authoring Guides/04_05_Four Guard-Rails of FPF/01_E.05.01 - DevOps Lexical Firewall]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67056-67130 |
+| E.5.2 | [[E_The FPF Constitution and Authoring Guides/04_05_Four Guard-Rails of FPF/02_E.05.02 - Notational Independence]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67131-67209 |
+| E.5.3 | [[E_The FPF Constitution and Authoring Guides/04_05_Four Guard-Rails of FPF/03_E.05.03 - Unidirectional Dependency]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67210-67289 |
+| E.5.4 | [[E_The FPF Constitution and Authoring Guides/04_05_Four Guard-Rails of FPF/04_E.05.04 - Cross-Disciplinary Bias Audit]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67290-67373 |
+| E.6 | [[E_The FPF Constitution and Authoring Guides/05_06_Didactic Architecture of the Specification/00_E.06 - Didactic Architecture of the Specification]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67374-67473 |
+| E.7 | [[E_The FPF Constitution and Authoring Guides/06_07_Archetypal Grounding Principle/00_E.07 - Archetypal Grounding Principle]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67474-67557 |
+| E.8 | [[E_The FPF Constitution and Authoring Guides/07_08_FPF Authoring Conventions & Style Guide/00_E.08 - FPF Authoring Conventions & Style Guide]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 67558-68130 |
+| E.8.ECSPF | [[E_The FPF Constitution and Authoring Guides/07_08_FPF Authoring Conventions & Style Guide/01_E.08.ECSPF - Evaluation CharacteristicSpace FPF Pattern Publication Form]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 68131-68310 |
+| E.9 | [[E_The FPF Constitution and Authoring Guides/08_09_Design-Rationale Record (DRR) Method/00_E.09 - Design-Rationale Record (DRR) Method]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 68311-68684 |
+| E.9.DA | [[E_The FPF Constitution and Authoring Guides/08_09_Design-Rationale Record (DRR) Method/01_E.09.DA - DRR Decision-Adequacy Evaluation CharacteristicSpace]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 68685-68967 |
+| E.10 | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/00_E.10 - Unified Lexical Rules for FPF]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 68968-70751 |
+| E.10.MOVE | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/01_E.10.MOVE - Move and Readiness Wording Precision Restoration]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 70752-71019 |
+| E.10.ARCH | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/02_E.10.ARCH - Wording-Use Ontological Precision Restoration Architecture]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 71020-71427 |
+| E.10.P | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/03_E.10.P - Conceptual Prefixes policy & registry]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 71428-71457 |
+| E.10.D1 | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/04_E.10.D1 - Lexical Discipline for “Context” (D.CTX)]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 71458-71636 |
+| E.10.D2 | [[E_The FPF Constitution and Authoring Guides/09_10_Unified Lexical Rules for FPF/05_E.10.D2 - EntityOfConcern, Description Episteme, and Specification-Use Discipline]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 71637-71991 |
+| E.11 | [[E_The FPF Constitution and Authoring Guides/10_11_Practical-Use Guidance and Pattern Discovery/00_E.11 - Practical-Use Guidance and Pattern Discovery]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 71992-72357 |
+| E.11.PUA | [[E_The FPF Constitution and Authoring Guides/10_11_Practical-Use Guidance and Pattern Discovery/01_E.11.PUA - Pattern Use in a Working Situation and First Useful Result]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 72358-72845 |
+| E.11.PUR | [[E_The FPF Constitution and Authoring Guides/10_11_Practical-Use Guidance and Pattern Discovery/02_E.11.PUR - Pattern-Use Applicability, Recommendation, and Coordination]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 72846-73117 |
+| E.12 | [[E_The FPF Constitution and Authoring Guides/11_12_Didactic Primacy & Cognitive Ergonomics/00_E.12 - Didactic Primacy & Cognitive Ergonomics]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 73118-73205 |
+| E.13 | [[E_The FPF Constitution and Authoring Guides/12_13_Pragmatic Utility and Value Alignment/00_E.13 - Pragmatic Utility and Value Alignment]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 73206-73400 |
+| E.14 | [[E_The FPF Constitution and Authoring Guides/13_14_Human-Centric Working-Model/00_E.14 - Human-Centric Working-Model]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 73401-73733 |
+| E.15 | [[E_The FPF Constitution and Authoring Guides/14_15_Lexical Authoring & Evolution Protocol (LEX-AUTH)/00_E.15 - Lexical Authoring & Evolution Protocol (LEX-AUTH)]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 73734-73919 |
+| E.16 | [[E_The FPF Constitution and Authoring Guides/15_16_RoC-Autonomy Budget & Enforcement/00_E.16 - RoC-Autonomy Budget & Enforcement]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 73920-74126 |
+| E.17.0 | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/00_E.17.00 - U.MultiViewDescribing - Viewpoints, Views & Correspondences]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 74127-74516 |
+| E.17.1 | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/01_E.17.01 - U.ViewpointBundleLibrary - Reusable Viewpoint Bundles]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 74517-74888 |
+| E.17.2 | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/02_E.17.02 - TEVB - Typical Engineering Viewpoints Bundle]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 74889-75359 |
+| E.17 | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/03_E.17 - Multi-View Publication Kit]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 75360-75964 |
+| E.17.EFP | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/04_E.17.EFP - ExplanationFaithfulnessProfile - explanation-use discipline over existing MVPK faces]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 75965-76473 |
+| E.17.ID.CR | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/05_ID/00_E.17.ID.CR - ComparativeReviewUnit - bounded comparison over comparative review units]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 76474-77190 |
+| E.17.AUD | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/06_AUD_PublicationUnit Stability Discipline - keep one publication unit stable enough to read honestly/00_E.17.AUD - PublicationUnit Stability Discipline - keep one publication unit stable enough to read honestly]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 77191-77487 |
+| E.17.AUD.LHR | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/06_AUD_PublicationUnit Stability Discipline - keep one publication unit stable enough to read honestly/01_E.17.AUD.LHR - PublicationUnit Stability Discipline and Local Head Restoration - repair the overloaded local lexical head before the publication unit inherits it]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 77488-77852 |
+| E.17.AUD.OOTD | [[E_The FPF Constitution and Authoring Guides/16_17_Multi-View Publication Kit/06_AUD_PublicationUnit Stability Discipline - keep one publication unit stable enough to read honestly/02_E.17.AUD.OOTD - PublicationUnit Stability Discipline and PublicationUnit Primary EntityOfConcern Discipline - publication-unit stability over one primary EntityOfConcern]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 77853-78171 |
+| E.18 | [[E_The FPF Constitution and Authoring Guides/17_18_Transformation Flow Structure/00_E.18 - Transformation Flow Structure]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 78172-78756 |
+| E.18.1 | [[E_The FPF Constitution and Authoring Guides/17_18_Transformation Flow Structure/01_E.18.01 - P2W Problem-to-Work Carry-Through]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 78757-79293 |
+| E.18.2 | [[E_The FPF Constitution and Authoring Guides/17_18_Transformation Flow Structure/02_E.18.02 - Transformation Flow Mathematical Description]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 79294-79508 |
+| E.18.3 | [[E_The FPF Constitution and Authoring Guides/17_18_Transformation Flow Structure/03_E.18.03 - Constraint-Governed Transformation-Flow Unfolding Structure]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 79509-79768 |
+| E.19 | [[E_The FPF Constitution and Authoring Guides/18_19_Pattern Quality Gates- Review and Refresh Profiles/00_E.19 - Pattern Quality Gates- Review and Refresh Profiles]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 79769-80449 |
+| E.20 | [[E_The FPF Constitution and Authoring Guides/19_20_Mechanism Introduction Protocol/00_E.20 - Mechanism Introduction Protocol]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 80450-80856 |
+| E.21 | [[E_The FPF Constitution and Authoring Guides/20_21_FPF Pattern-Quality Evaluation CharacteristicSpace/00_E.21 - FPF Pattern-Quality Evaluation CharacteristicSpace]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 80857-81228 |
+| E.22 | [[E_The FPF Constitution and Authoring Guides/21_22_Improvement-Oriented Quality Evaluation Question Framing/00_E.22 - Improvement-Oriented Quality Evaluation Question Framing]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 81229-81545 |
+| E.23 | [[E_The FPF Constitution and Authoring Guides/22_23_Quality Improvement Loop Method/00_E.23 - Quality Improvement Loop Method]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 81546-81915 |
+| E.24 | [[E_The FPF Constitution and Authoring Guides/23_24_U.Ontic and Ontic Introduction Discipline/00_E.24 - U.Ontic and Ontic Introduction Discipline]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 81916-82385 |
+| E.24.CD | [[E_The FPF Constitution and Authoring Guides/23_24_U.Ontic and Ontic Introduction Discipline/01_E.24.CD - Ontic Candidate Detection]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 82386-82691 |
+| E.24.PUB | [[E_The FPF Constitution and Authoring Guides/23_24_U.Ontic and Ontic Introduction Discipline/02_E.24.PUB - Ontic Description and Publication Discipline]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 82692-82937 |
+| E.24.UK | [[E_The FPF Constitution and Authoring Guides/23_24_U.Ontic and Ontic Introduction Discipline/03_E.24.UK - U-kind Governance and Ontic Settlement Coupling]] | [[00_Hubs/FPF - Part E - The FPF Constitution and Authoring Guides]] | 82938-83266 |
+| F.0.1 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/00/00_F.00.01 - Contextual Lexicon Principles]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 83269-83585 |
+| F.1 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/01_Domain-Family Landscape Survey/00_F.01 - Domain-Family Landscape Survey]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 83586-83909 |
+| F.2 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/02_Term Harvesting & Normalisation/00_F.02 - Term Harvesting & Normalisation]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 83910-84206 |
+| F.3 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/03_Intra-Context Sense Clustering/00_F.03 - Intra-Context Sense Clustering]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 84207-84525 |
+| F.4 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/04_Role Description - Description Episteme for U.Role/00_F.04 - Role Description - Description Episteme for U.Role]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 84526-84859 |
+| F.5 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/05_Naming Discipline for U-kind Names and RoleDescription Labels/00_F.05 - Naming Discipline for U-kind Names and RoleDescription Labels]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 84860-85150 |
+| F.6 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/06_RoleAssignment and Performed-Work Attribution Check/00_F.06 - RoleAssignment and Performed-Work Attribution Check]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 85151-85526 |
+| F.7 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/07_Concept-Set Table/00_F.07 - Concept-Set Table]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 85527-85799 |
+| F.8 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/08_Mint-or-Reuse Decision/00_F.08 - Mint-or-Reuse Decision]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 85800-86184 |
+| F.9 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/09_Alignment and Bridge across Contexts/00_F.09 - Alignment and Bridge across Contexts]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 86185-86766 |
+| F.9.1 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/09_Alignment and Bridge across Contexts/01_F.09.01 - Bridge Stance Overlay]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 86767-86959 |
+| F.10 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/10_Status Families Mapping- Evidence, Standard, and Requirement Status/00_F.10 - Status Families Mapping- Evidence, Standard, and Requirement Status]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 86960-87211 |
+| F.11 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/11_Method Quartet Harmonisation/00_F.11 - Method Quartet Harmonisation]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 87212-87533 |
+| F.12 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/12_Service Acceptance-Work Evidence Link/00_F.12 - Service Acceptance-Work Evidence Link]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 87534-87857 |
+| F.13 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/13_Lexical Continuity & Deprecation/00_F.13 - Lexical Continuity & Deprecation]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 87858-88155 |
+| F.14 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/14_Anti-Explosion Control for Role and Status Name Families/00_F.14 - Anti-Explosion Control for Role and Status Name Families]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 88156-88475 |
+| F.15 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/15_Static and Regression Conformance Harness for Unification/00_F.15 - Static and Regression Conformance Harness for Unification]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 88476-88935 |
+| F.16 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/16_Worked-Example Template (Cross-Domain)/00_F.16 - Worked-Example Template (Cross-Domain)]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 88936-89220 |
+| F.17 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/17_Unified Term Sheet/00_F.17 - Unified Term Sheet]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 89221-89772 |
+| F.18 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/18_Local-First Unification Naming Protocol/00_F.18 - Local-First Unification Naming Protocol]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 89773-90224 |
+| F.19 | [[F_The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment/19_Ontology-First Plain Technical Rewriting/00_F.19 - Ontology-First Plain Technical Rewriting]] | [[00_Hubs/FPF - Part F - The Unification Suite (U-Suite)- Concept-Sets, SenseCells & Contextual Role Assignment]] | 90225-90459 |
+| G.Core | [[G_Discipline SoTA Patterns Kit/00_Core_Part G Core Invariants/00_G.Core - Part G Core Invariants]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 90462-90904 |
+| G.0 | [[G_Discipline SoTA Patterns Kit/01_00_Frame Standard and Comparability Governance - CG-Spec/00_G.0 - Frame Standard and Comparability Governance - CG-Spec]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 90905-91249 |
+| G.1 | [[G_Discipline SoTA Patterns Kit/02_01_CG-Frame-Ready Generator/00_G.01 - CG-Frame-Ready Generator]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 91250-91682 |
+| G.2 | [[G_Discipline SoTA Patterns Kit/03_02_SoTA Harvester & Synthesis/00_G.02 - SoTA Harvester & Synthesis]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 91683-92186 |
+| G.3 | [[G_Discipline SoTA Patterns Kit/04_03_CHR Authoring for a CG-Frame- Characteristics, Scales, Levels, Coordinates/00_G.03 - CHR Authoring for a CG-Frame- Characteristics, Scales, Levels, Coordinates]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 92187-92624 |
+| G.4 | [[G_Discipline SoTA Patterns Kit/05_04_CAL Authoring for a CG-Frame- Operators, Acceptance Clauses, Evidence Wiring/00_G.04 - CAL Authoring for a CG-Frame- Operators, Acceptance Clauses, Evidence Wiring]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 92625-93095 |
+| G.5 | [[G_Discipline SoTA Patterns Kit/06_05_Multi-Method Dispatcher and MethodFamily Registry/00_G.05 - Multi-Method Dispatcher and MethodFamily Registry]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 93096-93773 |
+| G.6 | [[G_Discipline SoTA Patterns Kit/07_06_Evidence Graph and Provenance Ledger- Citable Evidence-Provenance Paths/00_G.06 - Evidence Graph and Provenance Ledger- Citable Evidence-Provenance Paths]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 93774-94088 |
+| G.7 | [[G_Discipline SoTA Patterns Kit/08_07_Cross-Tradition Bridge Calibration Kit (BridgeMatrix → BridgeCards + BCT-Sentinels)/00_G.07 - Cross-Tradition Bridge Calibration Kit (BridgeMatrix → BridgeCards + BCT-Sentinels)]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 94089-94475 |
+| G.8 | [[G_Discipline SoTA Patterns Kit/09_08_SoS-LOG Bundles & Maturity Ladders/00_G.08 - SoS-LOG Bundles & Maturity Ladders]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 94476-94944 |
+| G.9 | [[G_Discipline SoTA Patterns Kit/10_09_Parity and Benchmark Harness/00_G.09 - Parity and Benchmark Harness]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 94945-95455 |
+| G.10 | [[G_Discipline SoTA Patterns Kit/11_10_SoTA Pack Shipping/00_G.10 - SoTA Pack Shipping]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 95456-95859 |
+| G.11 | [[G_Discipline SoTA Patterns Kit/12_11_Telemetry-Driven Refresh and Decay Orchestrator/00_G.11 - Telemetry-Driven Refresh and Decay Orchestrator]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 95860-96285 |
+| G.12 | [[G_Discipline SoTA Patterns Kit/13_12_DHC Dashboards (Discipline-Health time-series; admissible telemetry; generation-first)/00_G.12 - DHC Dashboards (Discipline-Health time-series; admissible telemetry; generation-first)]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 96286-96696 |
+| G.13 | [[G_Discipline SoTA Patterns Kit/14_13_External Interop Hooks for SoTA Discipline Packs (conceptual)/00_G.13 - External Interop Hooks for SoTA Discipline Packs (conceptual)]] | [[00_Hubs/FPF - Part G - Discipline SoTA Patterns Kit]] | 96697-97038 |
+| I.2 | [[I_Annexes & Extended Tutorials/00_02_Expanded Entry Disambiguation Cases/00_I.02 - Expanded Entry Disambiguation Cases]] | [[00_Hubs/FPF - Part I - Annexes & Extended Tutorials]] | 97047-97255 |

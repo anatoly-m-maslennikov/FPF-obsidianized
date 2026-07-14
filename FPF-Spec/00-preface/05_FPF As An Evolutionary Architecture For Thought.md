@@ -1,19 +1,19 @@
 ---
-type: fpf-knowledge-page
+type: "fpf-knowledge-page"
 context:
-  - FPF
-page_type: fpf-knowledge-page
-mode: canonical-generated
-title: FPF As An Evolutionary Architecture For Thought
-part: "[[FPF - Preface (non-normative)]]"
+  - "FPF"
+page_type: "fpf-knowledge-page"
+mode: "canonical-generated"
+title: "FPF As An Evolutionary Architecture For Thought"
+part: "[[00_Hubs/FPF - Preface (non-normative)]]"
 parents:
-  - "[[FPF - Preface (non-normative)]]"
-source_file: FPF-Spec.md.breaks.my.obsidian.bak
+  - "[[00_Hubs/FPF - Preface (non-normative)]]"
+source_file: "FPF-Spec.md.breaks.my.obsidian.bak"
 source_lines:
-  - 787
-  - 806
-status: generated
-generated_on: 2026-06-15
+  - 841
+  - 860
+status: "generated"
+generated_on: "2026-07-14"
 generated: true
 ---
 
@@ -22,7 +22,7 @@ A method of thinking is itself a system. It can be brittle, ad hoc, and dependen
 
 FPF is an evolutionary architecture for thought. It is not a static inventory of concepts. It is an architecture of patterns, relations, checks, publication units, and improvement loops that can evolve as new problems, domains, AI tools, and state-of-the-art lines appear.
 
-The analogy with evolutionary architecture in engineering is deliberate. A good architecture does not freeze a system forever. It provides structures that make guided change possible. It names the characteristics that matter, the constraints that must survive change, the comparison basis for alternatives, and the records that explain why a change was accepted.
+The analogy with evolutionary architecture in engineering is deliberate. A good architecture does not freeze a system forever. It provides structures that make guided change possible. It names the characteristics that matter, the constraints preserved through change, the comparison basis for alternatives, and the records that explain why a change was accepted.
 
 FPF applies the same idea to reasoning:
 

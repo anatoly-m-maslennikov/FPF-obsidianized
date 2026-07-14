@@ -10,7 +10,7 @@ Design:
   normativity, terms, and extracted relations.
 
 Run from the FPF repo root:
-    scripts/build_fpf_obsidian_graph.py --source FPF-Spec.md.breaks.my.obsidian.bak --out FPF-Spec --clean
+    scripts/build_fpf_obsidian_graph.py --source FPF-Spec-original/FPF-Spec.md.breaks.my.obsidian.bak --out FPF-Spec --clean
 """
 from __future__ import annotations
 
@@ -641,7 +641,12 @@ def linkify_line(line: str, id_to_page: dict[str, str]) -> str:
 
     def repl_plain(match: re.Match[str]) -> str:
         ref = match.group(1)
-        return linked_ref(ref) if ref in id_to_page else ref
+        if ref not in id_to_page:
+            return ref
+        # Avoid turning source constructs such as `[B.2.P: note]` into
+        # malformed triple-bracket links (`[[[...]]`).
+        prefix = " " if match.start() > 0 and match.string[match.start() - 1] == "[" else ""
+        return prefix + linked_ref(ref)
 
     line = ID_RE.sub(repl_plain, line)
     for i, value in enumerate(protected):
@@ -763,7 +768,7 @@ def build(source: Path, out_dir: Path, clean: bool) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Generate Obsidian graph from FPF-Spec.md")
-    parser.add_argument("--source", default="FPF-Spec.md")
+    parser.add_argument("--source", default="FPF-Spec-original/FPF-Spec.md.breaks.my.obsidian.bak")
     parser.add_argument("--out", default="FPF-Spec")
     parser.add_argument("--clean", action="store_true")
     args = parser.parse_args()
